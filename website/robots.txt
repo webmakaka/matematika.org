@@ -1,0 +1,9 @@
+---
+layout: null
+permalink: robots.txt
+---
+
+User-agent: *
+Allow: /
+Host: https://matematika.org
+Sitemap: https://matematika.org/sitemap.xml

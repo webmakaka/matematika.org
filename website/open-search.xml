@@ -1,0 +1,15 @@
+---
+layout: null
+permalink: /open-search.xml
+---
+
+
+<?xml version="1.0" encoding="UTF-8"?>
+
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+ <ShortName>matematika.org</ShortName>
+ <Description>Use Google to search matematika.org</Description>
+ <Tags>matematika.org</Tags>
+ <Url type="text/html"
+      template="http://www.google.com/search?as_sitesearch=matematika.org&amp;q={searchTerms}"/>
+</OpenSearchDescription>
