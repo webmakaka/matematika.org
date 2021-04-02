@@ -16,7 +16,7 @@ permalink: /books/ds/
 
 <br/>
 
-![Книги по MachineLearning и DeepLearning](/img/books/ds/ml-dl-books-collection.jpg' Книги по MachineLearning и DeepLearning'){: .center-image }
+![Книги по MachineLearning и DeepLearning](/img/books/ds/ml-dl-books-collection.jpg 'Книги по MachineLearning и DeepLearning'){: .center-image }
 
 <br/>
 
