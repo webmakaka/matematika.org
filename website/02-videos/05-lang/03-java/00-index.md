@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Java
-description: Java
-keywords: Java, разработка
+title: Видеокурсы по изучению языка программирования Java
+description: Видеокурсы по изучению языка программирования Java
+keywords: Java, видеокурсы
 permalink: /videos/lang/java/
 ---
 
-# Java
+# Видеокурсы по изучению языка программирования Java
 
 <br/>
 

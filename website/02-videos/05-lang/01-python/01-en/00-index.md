@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Python
-description: Языки программирования для Data Science, Python на английском
-keywords: Data Science, Programming Languages, Python
+title: Видеокурсы по изучению языка программирования Python на английском языке
+description: Видеокурсы по изучению языка программирования Python на английском языке
+keywords: Data Science, Programming Languages, Python, eng
 permalink: /videos/lang/python/en/
 ---
 
-# Python
+# Видеокурсы по изучению языка программирования Python на английском языке
 
 ### [Paul J. Deitel] Python Fundamentals [ENG, 2019]
 

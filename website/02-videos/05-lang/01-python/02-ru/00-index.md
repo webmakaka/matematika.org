@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Python
-description: Языки программирования для Data Science, Python на русском
-keywords: Data Science, Programming Languages, Python
+title: Видеокурсы по изучению языка программирования Python на русском языке
+description: Видеокурсы по изучению языка программирования Python на русском языке
+keywords: Data Science, Programming Languages, Python, русский язык
 permalink: /videos/lang/python/ru/
 ---
 
-# Python на русском
+# Видеокурсы по изучению языка программирования Python на русском языке
 
 <br/>
 
