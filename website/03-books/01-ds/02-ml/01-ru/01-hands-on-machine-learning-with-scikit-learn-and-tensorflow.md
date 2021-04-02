@@ -1,7 +1,7 @@
 ---
 layout: page
-title: [Орельен Жерон] Прикладное машинное обучение с помощью Scikit-Learn, Keras и TensorFlow  2-e издание [RUS, 2020]
-description: [Орельен Жерон] Прикладное машинное обучение с помощью Scikit-Learn, Keras и TensorFlow 2-e издание [RUS, 2020]
+title: Орельен Жерон - Прикладное машинное обучение с помощью Scikit-Learn, Keras и TensorFlow  2-e издание [RUS, 2020]
+description: Орельен Жерон - Прикладное машинное обучение с помощью Scikit-Learn, Keras и TensorFlow 2-e издание [RUS, 2020]
 keywords: Орельен Жерон, Прикладное машинное обучение с помощью Scikit-Learn, Keras и TensorFlow
 permalink: /books/ds/ml/ru/hands-on-machine-learning-with-scikit-learn-and-tensorflow/
 ---

@@ -12,7 +12,7 @@ https://www.tensorflow.org/install/docker
 
 <br/>
 
-### [Инсталляция docker в ubuntu linux](https://sysadm.ru/devops/containers/docker/install/ubuntu/)
+### [Инсталляция docker в ubuntu linux](https://sysadm.ru/devops/containers/docker/setup/ubuntu/)
 
 <br/>
 

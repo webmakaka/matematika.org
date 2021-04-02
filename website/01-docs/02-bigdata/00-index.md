@@ -37,7 +37,7 @@ http://localhost:8080
 
 <br/>
 
-### [JDK installation in linux (Ubuntu, Centos)](https://javadev.org/devtools/jdk/install/linux/)
+### [JDK installation in linux (Ubuntu, Centos)](https://javadev.org/devtools/jdk/setup/linux/)
 
 ### [Installation SCALA in linux](https://javadev.org/devtools/bigdata/scala/install/linux/)
 

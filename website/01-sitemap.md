@@ -72,4 +72,4 @@ https://www.youtube.com/channel/UCRna3TsezxOptinsv-4ILzA/playlists
 
 <br/>
 
-### [Позитивное видео про математиков (История Перельмана)](/videos/)
+### [Позитивное видео про математиков (История Перельмана)](/videos/perelman/)
