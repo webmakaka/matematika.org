@@ -12,4 +12,4 @@ permalink: /videos/lang/java/
 
 <!-- ### [ENG](/videos/lang/java/eng/) -->
 
-### [RUS](/videos/lang/java/rus/)
+### [RUS](/videos/lang/java/ru/)
