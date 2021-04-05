@@ -55,8 +55,8 @@ https://www.youtube.com/watch?v=7lKwdPwqVHc
 **Лекция 2.6: Нормализация**  
 https://www.youtube.com/watch?v=tOiwAyilk3I
 
-**Лекция. Линейная и логистическая регрессия**  
+**Лекция Линейная и логистическая регрессия**  
 https://www.youtube.com/watch?v=5VOp5xmBvds
 
-**Лекция. Регуляризация**  
+**Лекция Регуляризация**  
 https://www.youtube.com/watch?v=56YdhX0xj3k

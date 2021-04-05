@@ -45,8 +45,19 @@ https://www.youtube.com/watch?v=nJMD5z0RaWQ
 **Семинар. Numpy**  
 https://www.youtube.com/watch?v=lFaTC-PAAQo
 
+[Ссылка на ноутбук](https://drive.google.com/file/d/1TWELCwOQVbXwgSjMqgfpuBwz-XsQSdM_/view?usp=sharing)
+
 <br/>
+
+**Matplotlib**
 
 В этом уроке вам предстоит познакомиться с библиотекой Matplotlib. Это самая распространённая библиотека в Python для построения графиков. Её основной функционал очень прост в использовании, поэтому мы предлагаем освоить его самостоятельно. В ноутбуке приведён довольно обширный список продвинутых фишек Matplotlib-а, не все из которых понадобятся на нашем курсе. Мы призываем относиться к нему как к справочнику функциональности библиотеки.
 
-https://drive.google.com/file/d/12lkOwfDNCF3uFIK2U7F43XbPlHm29lsL/view?usp=sharing
+[Ссылка на ноутбук](https://drive.google.com/file/d/12lkOwfDNCF3uFIK2U7F43XbPlHm29lsL/view?usp=sharing)
+
+<br/>
+
+**Семинар. Библиотека Pandas**  
+https://www.youtube.com/watch?v=J6iHTHHS7as
+
+[Ссылка на ноутбук](https://drive.google.com/file/d/15Vh1YEo86CJ5lAEmQBzNiCr1Z09z0oyz/view)
