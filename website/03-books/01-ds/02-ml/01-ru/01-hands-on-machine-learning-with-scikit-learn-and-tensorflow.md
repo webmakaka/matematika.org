@@ -20,16 +20,14 @@ http://go.dialektika.com/mlearning
 
 <br/>
 
-<br/>
-
 **Наиболее важные алгоритмы обучения с учителем:**
 
-• k ближайших соседей (k-Nearest Neighbors)
-• линейная регрессия (Linear Regression)
-• логистическая регрессия (Logistic Regression)
-• метод опорных векторов (Support Vector Machine - SVM)
-• деревья принятия решений (Decision Tree) и случайные леса (Random Forest)
-• нейронные сети (neural network)
+- k ближайших соседей (k-Nearest Neighbors)
+- линейная регрессия (Linear Regression)
+- логистическая регрессия (Logistic Regression)
+- метод опорных векторов (Support Vector Machine - SVM)
+- деревья принятия решений (Decision Tree) и случайные леса (Random Forest)
+- нейронные сети (neural network)
 
 <br/>
 
@@ -60,19 +58,13 @@ http://go.dialektika.com/mlearning
 
 <br/>
 
-````
-
-
-
-<br/>
-
-https://github.com/ageron/handson-ml
-
-<br/>
-
 **В ubuntu:**
 
 Подготовил окружение как <a href="/ds/devtools/python/virtualenv/">здесь</a>
+
+<br/>
+
+### Попозже вернусь!
 
 <br/>
 
@@ -99,7 +91,7 @@ def fetch_housing_data(housing_url=HOUSING_URL, housing_path=HOUSING_PATH):
     housing_tgz = tarfile.open(tgz_path)
     housing_tgz.extractall(path=housing_path)
     housing_tgz.close()
-````
+```
 
 <br/>
 
