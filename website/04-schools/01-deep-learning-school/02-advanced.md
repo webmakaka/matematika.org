@@ -10,24 +10,31 @@ permalink: /schools/deep-learning-school/advanced/
 
 <br/>
 
-### Введение в искусственный интеллект
-
-**1. Введение в ИИ и нейронные сети: лекция**
-https://www.youtube.com/watch?v=RviskFqwF3M
-
-<br/>
-
 ### Основы машинного обучения
 
 **Лекция 1. Введение в машинное обучение**  
 https://www.youtube.com/watch?v=LcvKd42DGQU
 
+На этой вводной лекции про машинное обучение вы узнаете, что такое обучение с учителем, как выглядит решение задачи машинного обучения и что такое обучение модели.
+
+<br/>
+
+![Лекция 1. Введение в машинное обучение - разделение на Train / Validation / Test ](/img/schools/deep-learning-school/lecture-01-pic-01.png 'Лекция 1. Введение в машинное обучение - разделение на Train / Validation / Test'){: .center-image }
+
+<br/>
+
+![Лекция 1. Введение в машинное обучение - Cross-validation](/img/schools/deep-learning-school/lecture-01-pic-02.png 'Лекция 1. Введение в машинное обучение - Cross-validation'){: .center-image }
+
+(С нейросетями практически никогда не делается. Для других методов, почти всегда.)
+
+<br/>
+
 **Семинар 1. Введение в машинное обучение**  
 https://www.youtube.com/watch?v=YMtsgx8oB24
 
-**Материалы:**
+В этом семинаре вы познакомитесь с библиотекой sklearn и узнаете основные этапы обработки данных. Также мы будем подбирать гиперпараметры модели с помощью метрик и кросс валидации.
 
-https://drive.google.com/drive/folders/1VtuJtgZx4N8CYMiiV7PaKXo2J-PYSwuK
+[Ссылка на папку с материалами](https://drive.google.com/drive/folders/1VtuJtgZx4N8CYMiiV7PaKXo2J-PYSwuK)
 
 Инструкция по подключению своего Google drive к Google colab
 

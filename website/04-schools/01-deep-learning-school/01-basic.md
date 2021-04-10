@@ -61,7 +61,30 @@ https://www.youtube.com/watch?v=lFaTC-PAAQo
 
 <br/>
 
+### Библиотека Pandas
+
+<br/>
+
 **Семинар. Библиотека Pandas**  
 https://www.youtube.com/watch?v=J6iHTHHS7as
 
 [Ссылка на ноутбук](https://drive.google.com/file/d/15Vh1YEo86CJ5lAEmQBzNiCr1Z09z0oyz/view)
+
+<br/>
+
+### Производная, градиент и оптимизация
+
+**Лекция. Понятие производной**  
+https://www.youtube.com/watch?v=9zKXtRMunTA
+
+[Ссылка на ноутбук](https://drive.google.com/drive/folders/15eJ-IDsoXqZv3cgd8E2Dyz4Z1xt7INBP)
+
+**Лекция. Вычисление производной. Градиент**  
+https://www.youtube.com/watch?v=XwVd2Xi5GjQ
+
+**Лекция. Градиентная оптимизация**  
+https://www.youtube.com/watch?v=WcDAj8bJAu8
+
+<br/>
+
+Далее стартует <a href='/schools/deep-learning-school/advanced/'>продвинутая</a> часть курса.
