@@ -19,5 +19,3 @@ permalink: /books/ds/dl/pytorch/ru/
 https://github.com/joosthub/PyTorchNLPBook
 
 Примеры кода в издании совместимы с версией PyTorch 0.4
-
-
