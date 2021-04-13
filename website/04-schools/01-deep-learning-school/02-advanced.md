@@ -120,7 +120,7 @@ https://www.youtube.com/watch?v=B03CrtpYDi4
 
 [Ссылка на материалы](https://drive.google.com/file/d/1OKHxmyBjWLFJFBPOc5uj0MGOMQVAyo-B/view)
 
-Отличная лекция, нужно пересмотреть.
+Интересная лекция, нужно пересмотреть.
 
 <br/>
 
@@ -130,20 +130,29 @@ https://www.youtube.com/watch?v=B03CrtpYDi4
 
 <br/>
 
+Ссылки на сайты:
+
+- https://cs231n.github.io/
+- http://playground.tensorflow.org/
+
+<br/>
+
 **[Нейчев Радослав] Лекция. Введение в нейронные сети. Часть 1. История развития Deep Learning**  
 https://www.youtube.com/watch?v=ZfXpX8tMg-w
-
-Завидую! Лектор работал на проекте для CERN.
 
 <br/>
 
 **[Нейчев Радослав] Лекция. Введение в нейронные сети. Часть 2. Механизм обратного распространения ошибки**  
 https://www.youtube.com/watch?v=-yiq1DRX9K0
 
+Интересная лекция, нужно пересмотреть.
+
 <br/>
 
 **[Нейчев Радослав] Лекция. Введение в нейронные сети. Часть 3. Функции активации. Краткий обзор применений CNN и RNN**  
 https://www.youtube.com/watch?v=3F7rydcAa0w
+
+Интересная лекция, нужно пересмотреть.
 
 <br/>
 
@@ -154,5 +163,5 @@ https://www.youtube.com/watch?v=aW9BgoKalY0
 
 <br/>
 
-**[Садыков Дмитрий] Семинар. Основы PyTorch. Обучение нейронных сетей.**  
+**[Садыков Дмитрий] Семинар. Основы PyTorch. Обучение нейронных сетей**  
 https://www.youtube.com/watch?v=aW9BgoKalY0
