@@ -93,7 +93,7 @@ https://www.youtube.com/watch?v=MJwAoWFTMWw
 
 [Ссылка на презентацию](https://drive.google.com/file/d/1OKHxmyBjWLFJFBPOc5uj0MGOMQVAyo-B/view)
 
-**[Яровиков Юрий] Лекция. Лекция. Композиции алгоритмов**  
+**[Яровиков Юрий] Лекция. Композиции алгоритмов**  
 https://www.youtube.com/watch?v=vqF8wrWjR5s
 
 Бэггинг, Стекинг и Бустинг используют принцип композиции
@@ -104,7 +104,7 @@ https://www.youtube.com/watch?v=vqF8wrWjR5s
 
 <br/>
 
-**[Яровиков Юрий] Лекция. Лекция. Градиентный бустинг**  
+**[Яровиков Юрий] Лекция. Градиентный бустинг**  
 https://www.youtube.com/watch?v=JElfEE1OrSU
 
 Градиентный бустинг - эффективный способ построения композиции решающих деревьев.
@@ -119,3 +119,40 @@ https://www.youtube.com/watch?v=JElfEE1OrSU
 https://www.youtube.com/watch?v=B03CrtpYDi4
 
 [Ссылка на материалы](https://drive.google.com/file/d/1OKHxmyBjWLFJFBPOc5uj0MGOMQVAyo-B/view)
+
+Отличная лекция, нужно пересмотреть.
+
+<br/>
+
+### Введение в нейронные сети
+
+В этом модуле мы начинаем знакомство с нейронными сетями. Вы узнаете о том, что такое полносвязные нейронные сети, изучите алгоритм обратного распространения ошибки для обучения нейронных сетей, а также изучите библиотеку Pytorch.
+
+<br/>
+
+**[Нейчев Радослав] Лекция. Введение в нейронные сети. Часть 1. История развития Deep Learning**  
+https://www.youtube.com/watch?v=ZfXpX8tMg-w
+
+Завидую! Лектор работал на проекте для CERN.
+
+<br/>
+
+**[Нейчев Радослав] Лекция. Введение в нейронные сети. Часть 2. Механизм обратного распространения ошибки**  
+https://www.youtube.com/watch?v=-yiq1DRX9K0
+
+<br/>
+
+**[Нейчев Радослав] Лекция. Введение в нейронные сети. Часть 3. Функции активации. Краткий обзор применений CNN и RNN**  
+https://www.youtube.com/watch?v=3F7rydcAa0w
+
+<br/>
+
+**[Садыков Дмитрий] Семинар. PyTorch и полносвязные нейросети**  
+https://www.youtube.com/watch?v=aW9BgoKalY0
+
+[Ссылка на материалы](https://drive.google.com/drive/folders/1A7ExyT4ntKf4kS0pqk3pmfmrCAdLG70t)
+
+<br/>
+
+**[Садыков Дмитрий] Семинар. Основы PyTorch. Обучение нейронных сетей.**  
+https://www.youtube.com/watch?v=aW9BgoKalY0
