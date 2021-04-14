@@ -156,12 +156,34 @@ https://www.youtube.com/watch?v=3F7rydcAa0w
 
 <br/>
 
-**[Садыков Дмитрий] Семинар. PyTorch и полносвязные нейросети**  
+**[Садыков Дмитрий] Семинар. Основы PyTorch. Работа с тензорами**  
 https://www.youtube.com/watch?v=aW9BgoKalY0
+
+Official PyTorch tutorials:  
+https://pytorch.org/tutorials/beginner/blitz/tensor_tutorial.html#sphx-glr-beginner-blitz-tensor-tutorial-py
+
+Useful repo with different tutorials:  
+https://github.com/yunjey/pytorch-tutorial
 
 [Ссылка на материалы](https://drive.google.com/drive/folders/1A7ExyT4ntKf4kS0pqk3pmfmrCAdLG70t)
 
 <br/>
 
 **[Садыков Дмитрий] Семинар. Основы PyTorch. Обучение нейронных сетей**  
-https://www.youtube.com/watch?v=aW9BgoKalY0
+https://www.youtube.com/watch?v=afGOdNmRF_s
+
+<br/>
+
+### Свёрточные нейросети
+
+<br/>
+
+### Продвинутое обучение нейросетей
+
+<br/>
+
+### Классификация изображений
+
+<br/>
+
+### Семантическая сегментация
