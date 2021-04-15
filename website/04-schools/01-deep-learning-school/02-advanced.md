@@ -176,6 +176,30 @@ https://www.youtube.com/watch?v=afGOdNmRF_s
 
 ### Свёрточные нейросети
 
+Свёрточные нейросети - это особый вид нейросетей, который подходит для обработки структурированных данных - например, изображений.
+
+<br/>
+
+**[Гайнцева Татьяна] Лекция. Лекция. История развития сверточных нейронных сетей**  
+https://www.youtube.com/watch?v=Xq76hQHCkvQ
+
+[Ссылка на материалы](https://docs.google.com/presentation/d/1o3t6fClA7bKZ2r5KmzGMuyjLiQK0a588TFpBdlw4a8Q/edit)
+
+<br/>
+
+**[Гайнцева Татьяна] Лекция. Лекция. Сверточные нейронные сети**  
+https://www.youtube.com/watch?v=HpKGv-kYurk
+
+<br/>
+
+**[Гайнцева Татьяна] Лекция. Операция пулинга**  
+https://www.youtube.com/watch?v=IxLuPHtZBTY
+
+<br/>
+
+**[Гайнцева Татьяна] Лекция. Задачи компьютерного зрения**  
+https://www.youtube.com/watch?v=3IPRcBIsgNA
+
 <br/>
 
 ### Продвинутое обучение нейросетей
