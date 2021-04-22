@@ -206,8 +206,53 @@ https://www.youtube.com/watch?v=3IPRcBIsgNA
 
 <br/>
 
+**[Нейчев Радослав] Лекция. Градиентная оптимизация в Deep Learning**  
+https://www.youtube.com/watch?v=6CvpMOO-DB4
+
+[Ссылка на материалы](https://drive.google.com/file/d/13wCieD5_aiWRJUr2PEY2tP1dcn-4-B-1/view?usp=sharing)
+
+<br/>
+
+**[Нейчев Радослав] Лекция. Лекция. Регуляризация в Deep Learning**  
+https://www.youtube.com/watch?v=x72-oUjv1ew
+
+<br/>
+
+**[Лелейтнер Григорий] Семинар. PyTorch. Batch Normalization и Dropout**  
+https://www.youtube.com/watch?v=Y9a5EfqM7RM
+
+[Ссылка на материалы](https://drive.google.com/file/d/1iU1uocibhyTAw_1aC4WrDvOWhaUa7RBb/view?usp=sharing)
+
+<br/>
+
+**[Лелейтнер Григорий] Семинар. PyTorch. Оптимизаторы**  
+https://www.youtube.com/watch?v=Yh1VoUhS5MY
+
+<br/>
+
 ### Классификация изображений
 
 <br/>
 
 ### Семантическая сегментация
+
+**[Гайнцева Татьяна] Лекция. Семантическая сегментация. Введение**  
+https://www.youtube.com/watch?v=tIqndofykgc
+
+[Ссылка на материалы](https://drive.google.com/drive/folders/1dT0moLoneFiXDBzMPOy0lBwXHz1ajYX1?usp=sharing)
+
+<br/>
+
+**[Гайнцева Татьяна] Лекция. Семантическая сегментация. Трюки: Deconvolution, Dilated Convolution**  
+https://www.youtube.com/watch?v=K73tZxH9nvE
+
+Как улучшить имеющиеся архитектуры для задачи сегментации
+
+<br/>
+
+**[Гайнцева Татьяна] Лекция. Семантическая сегментация. Архитектура UNet**  
+https://www.youtube.com/watch?v=yEuIV5FsRMs
+
+<br/>
+
+### Детекция объектов на изображениях
