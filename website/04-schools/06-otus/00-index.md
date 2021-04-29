@@ -19,7 +19,9 @@ https://www.youtube.com/watch?v=tN59cnkwzNI
 
 <br/>
 
-### [Промышленный Machine Learning на больших данных](/schools/otus/production-ml-on-bigdata/)
+### [OTUS, Егор Матешук] Экосистема Hadoop, Spark, Hive [RUS, 2021]
+
+### [[OTUS] Промышленный Machine Learning на больших данных](/schools/otus/production-ml-on-bigdata/)
 
 ### [OTUS] Machine learning [RUS, 2020]
 

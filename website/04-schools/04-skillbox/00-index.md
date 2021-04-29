@@ -21,6 +21,8 @@ https://www.youtube.com/watch?v=CiqG7RNflLM&list=PLmEQTfkM_pfkVyU8BGamAPSdYYYe1e
 
 ### [[Skillbox] Профессия‌ ‌Data‌ ‌Scientist‌](/schools/skillbox/data-scientist/)
 
+### [Skillbox, Илья Мещеряков] SQL для анализа данных [RUS, 2021]
+
 ### Аналитик данных с нуля
 
 ### Аналитик данных на Python

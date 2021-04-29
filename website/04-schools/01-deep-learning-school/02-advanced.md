@@ -234,7 +234,28 @@ https://www.youtube.com/watch?v=Yh1VoUhS5MY
 
 <br/>
 
+**[Гайнцева Татьяна] Лекция. Архитектуры CNN**  
+https://www.youtube.com/watch?v=TcUPuKpIlhQ
+
+[Ссылка на материалы](https://drive.google.com/file/d/1ePTECPBbAY21xjGOtIVOcibzYcXq5BpV/view?usp=sharing)
+
+<br/>
+
+**[Гайнцева Татьяна] Лекция. Transfer Learning**  
+https://www.youtube.com/watch?v=oLpREso27Zw
+
+<br/>
+
+**[Балаганский Никита] Семинар. Transfer Learning в компьютерном зрении**  
+https://www.youtube.com/watch?v=4AUxDH4doV0
+
+[Ссылка на материалы](https://drive.google.com/drive/folders/1C-vc4p55uq2A0-UTXYgNtaCGZTofNaCb?usp=sharing)
+
+<br/>
+
 ### Семантическая сегментация
+
+<br/>
 
 **[Гайнцева Татьяна] Лекция. Семантическая сегментация. Введение**  
 https://www.youtube.com/watch?v=tIqndofykgc
@@ -256,3 +277,53 @@ https://www.youtube.com/watch?v=yEuIV5FsRMs
 <br/>
 
 ### Детекция объектов на изображениях
+
+<br/>
+
+**[Захаркин Илья] Лекция. Нейронная детекция объектов. Классификация (повторение)**  
+https://www.youtube.com/watch?v=8D01Xo9hWgg
+
+[Ссылка на материалы](https://docs.google.com/presentation/d/14Xit70Jg9CAq0oS8Q3AXzxoyM25di5dDV9Q5a1utpQQ/edit?usp=sharing)
+
+<br/>
+
+**[Захаркин Илья] Лекция. Нейронная детекция объектов. Основы**  
+https://www.youtube.com/watch?v=Y4JvVOaZWsU
+
+<br/>
+
+**[Захаркин Илья] Лекция. Нейронная детекция объектов. Двухстадийные нейросети**  
+https://www.youtube.com/watch?v=WrKl7GHWilA
+
+<br/>
+
+**[Захаркин Илья] Лекция. Нейронная детекция объектов. Одностадийные нейросети**  
+https://www.youtube.com/watch?v=OPK63uqAQLs
+
+<br/>
+
+**[Захаркин Илья] Лекция. Нейронная детекция объектов. Современные подходы и задачи**  
+https://www.youtube.com/watch?v=6WXUNNYysww
+
+<br/>
+
+**[Захаркин Илья] Практика. Нейронная детекция объектов. Запуск SSD, TorchHub**  
+https://www.youtube.com/watch?v=JX6N74K84n0
+
+[Ссылка на материалы](https://drive.google.com/drive/folders/1Zki81AB7QSg45Vf8VMA5--4Sy7_3Qqnl?usp=sharing)
+
+<br/>
+
+**[Захаркин Илья] Практика. Нейронная детекция объектов. Обучение SSD, mmdetection**  
+https://www.youtube.com/watch?v=gw_IXcbhOO0
+
+<br/>
+
+### Применение моделей компьютерного зрения
+
+<br/>
+
+**[Захаркин Илья] Семинар: Нейросети в компьютерном зрении: практика (08.12.2019)**  
+https://www.youtube.com/watch?v=XSPYe4-y4HE
+
+[Ссылка на материалы](https://drive.google.com/open?id=1ZpS8oyI__3QvjoIwVZwur4I5e4qIExPS)

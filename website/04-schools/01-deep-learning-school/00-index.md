@@ -46,7 +46,7 @@ https://docs.google.com/presentation/d/1z_lO03WpvhJiIT8ARUIDog2YXqfxZdIWfM0ki2xA
 
 ### [Продвинтый] (/schools/deep-learning-school/advanced/)
 
-### [Вторая часть курса]
+### [Вторая часть курса] Наверное NLP
 
 <br/>
 
