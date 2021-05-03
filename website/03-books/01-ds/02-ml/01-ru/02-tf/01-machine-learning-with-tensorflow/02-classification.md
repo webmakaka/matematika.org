@@ -1,6 +1,8 @@
 ---
 layout: page
-title: Классификация (Classification)
+title: Книга Machine learning with tensorflow - Классификация (Classification)
+description: Книга Machine learning with tensorflow - Классификация (Classification)
+keywords: books, machine learning with tensorflow, classification
 permalink: /books/ds/ml/ru/tf/machine-learning-with-tensorflow/classification/
 ---
 

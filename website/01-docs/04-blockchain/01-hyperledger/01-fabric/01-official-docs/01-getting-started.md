@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Hyperleger Fabric - Разбираемся с примерами из официальной документации
-description: Hyperleger Fabric - Разбираемся с примерами из официальной документации
-keywords: Blockchain, Hyperleger, Fabric, Официальная документация
+title: Hyperleger Fabric - Разбираемся с примерами из официальной документации - getting-started
+description: Hyperleger Fabric - Разбираемся с примерами из официальной документации - getting-started
+keywords: Blockchain, Hyperleger, Fabric, Официальная документация, getting-started
 permalink: /blockchain/hyperledger/fabric/official-docs/getting-started/
 ---
 

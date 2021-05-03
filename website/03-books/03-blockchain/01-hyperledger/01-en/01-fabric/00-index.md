@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Hyperleger Fabric (Blockchain)
-description: Hyperleger Fabric (Blockchain)
-keywords: Blockchain, Hyperleger, Fabric
+title: Книга по Hyperleger Fabric (Blockchain)
+description: Книга по Hyperleger Fabric (Blockchain)
+keywords: books, Blockchain, Hyperleger, Fabric
 permalink: /books/blockchain/hyperledger/en/fabric/
 ---
 

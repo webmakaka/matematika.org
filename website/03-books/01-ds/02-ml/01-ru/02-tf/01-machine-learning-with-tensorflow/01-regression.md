@@ -1,6 +1,8 @@
 ---
 layout: page
-title: Регрессия (Regression)
+title: Machine learning with tensorflow - Регрессия (Regression)
+description: Machine learning with tensorflow - Регрессия (Regression)
+keywords: books, ds, ml, machine learning with tensorflow
 permalink: /books/ds/ml/ru/tf/machine-learning-with-tensorflow/regression/
 ---
 

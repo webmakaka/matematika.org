@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Hyperleger Fabric (Blockchain)
-description: Hyperleger Fabric (Blockchain)
-keywords: Blockchain, Hyperleger, Fabric
+title: Видео по Hyperleger Fabric (Blockchain)
+description: Видео по Hyperleger Fabric (Blockchain)
+keywords: videos, blockchain, hyperleger, fabric
 permalink: /videos/blockchain/hyperledger/en/fabric/
 ---
 
