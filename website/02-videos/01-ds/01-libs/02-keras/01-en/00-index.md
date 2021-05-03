@@ -3,7 +3,7 @@ layout: page
 title: Видеокурсы по Keras на английском языке
 description: Видеокурсы по Keras на английском языке
 keywords: Video Courses, Data Science, Keras
-permalink: /videos/ds/dl/keras/en/
+permalink: /videos/ds/libs/keras/en/
 ---
 
 # Видеокурсы по Keras на английском языке

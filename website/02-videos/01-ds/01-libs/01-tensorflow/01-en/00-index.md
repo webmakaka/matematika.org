@@ -3,10 +3,14 @@ layout: page
 title: Видеокурсы по TensorFlow на английском языке
 description: Видеокурсы по TensorFlow на английском языке
 keywords: Видеокурсы, TensorFlow, английский язык
-permalink: /videos/ds/dl/tensorflow/en/
+permalink: /videos/ds/libs/tensorflow/en/
 ---
 
 # Видеокурсы по TensorFlow на английском языке
+
+<br/>
+
+### [[Udemy] [Andrei Neagoie, Daniel Bourke] TensorFlow Developer Certificate in 2021: Zero to Mastery [ENG, 2021]](/videos/ds/libs/tensorflow/en/tensorflow-developer-certificate-in-2021/)
 
 <br/>
 
@@ -88,7 +92,7 @@ print(gym.__version__)
 
 <br/>
 
-### [Tensorflow for Beginners](/videos/ds/dl/tensorflow/en/tensorflow-for-beginners/)
+### [Tensorflow for Beginners](/videos/ds/libs/tensorflow/en/tensorflow-for-beginners/)
 
 <br/>
 

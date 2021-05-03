@@ -3,7 +3,7 @@ layout: page
 title: Tensorflow for Beginners
 description: Tensorflow for Beginners
 keywords: Видеокурс, Data Science, Tensorflow for Beginners
-permalink: /videos/ds/dl/tensorflow/en/tensorflow-for-beginners/
+permalink: /videos/ds/libs/tensorflow/en/tensorflow-for-beginners/
 ---
 
 # Tensorflow for Beginners
