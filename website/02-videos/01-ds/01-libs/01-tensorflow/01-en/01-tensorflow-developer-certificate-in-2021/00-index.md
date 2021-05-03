@@ -8,6 +8,8 @@ permalink: /videos/ds/libs/tensorflow/en/tensorflow-developer-certificate-in-202
 
 # [Udemy] [Andrei Neagoie, Daniel Bourke] TensorFlow Developer Certificate in 2021: Zero to Mastery [ENG, 2021]
 
+<br/>
+
 https://www.udemy.com/course/tensorflow-developer-certificate-machine-learning-zero-to-mastery/
 
 <br/>
@@ -15,3 +17,4 @@ https://www.udemy.com/course/tensorflow-developer-certificate-machine-learning-z
 **GitHub:**  
 https://github.com/mrdbourke/tensorflow-deep-learning
 
+<br/>

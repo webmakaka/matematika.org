@@ -25,7 +25,7 @@ https://bitbucket.org/matematika/tensorflow-for-beginners/
 
 <br/><br/>
 
-![Estimators](/img/videos/ds/dl/tf/en/tensorflow-for-beginners/estimators.png 'Estimators'){: .center-image }
+![Estimators](/img/videos/ds/libs/tensorflow/en/tensorflow-for-beginners/estimators.png 'Estimators'){: .center-image }
 
 <br/><br/>
 
@@ -44,7 +44,7 @@ https://bitbucket.org/matematika/tensorflow-for-beginners/
 
 ### Machine Learning Lifecycle Example
 
-![Machine Learning Lifecycle Example](/img/videos/ds/dl/tf/en/tensorflow-for-beginners/machine-learning-lifecycle.png 'Machine Learning Lifecycle Example'){: .center-image }
+![Machine Learning Lifecycle Example](/img/videos/ds/libs/tensorflow/en/tensorflow-for-beginners/machine-learning-lifecycle.png 'Machine Learning Lifecycle Example'){: .center-image }
 
 <br/>
 

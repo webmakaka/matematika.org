@@ -26,6 +26,12 @@ permalink: /
 
 <br/>
 
+### [[Udemy] [Andrei Neagoie, Daniel Bourke] TensorFlow Developer Certificate in 2021: Zero to Mastery [ENG, 2021]](/videos/ds/libs/tensorflow/en/tensorflow-developer-certificate-in-2021/)
+
+Кто достанет. Подключайтесь к просмотру и обсуждению. Возможно, интересный материал.
+
+<br/>
+
 ### [YouTube] [teach-in] Лекции ученых МГУ [RUS, 2021]
 
 https://www.youtube.com/channel/UCimGOl6wSQWDbBFoVMQGzMg/playlists?view=50&sort=dd&shelf_id=3
@@ -44,7 +50,7 @@ https://www.youtube.com/watch?v=UoJ6qy1xwG4
 
 ### [Бесплатно] [Онлайн] [RS School] Introduction to Machine Learning [RUS, 18 января 2021]
 
-Rs school 18 января стартует курс по ml. Срок обучения 1 месяц.
+Rs school курс по ml. Срок обучения 1 месяц.
 
 [Подробнее] (/schools/rs-school/)
 
