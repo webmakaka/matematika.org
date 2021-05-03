@@ -18,3 +18,5 @@ https://www.udemy.com/course/tensorflow-developer-certificate-machine-learning-z
 https://github.com/mrdbourke/tensorflow-deep-learning
 
 <br/>
+
+

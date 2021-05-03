@@ -8,6 +8,16 @@ permalink: /
 
 <br/>
 
+### [[Udemy] [Andrei Neagoie, Daniel Bourke] TensorFlow Developer Certificate in 2021: Zero to Mastery [ENG, 2021]](/videos/ds/libs/tensorflow/en/tensorflow-developer-certificate-in-2021/)
+
+Кто достанет. Подключайтесь к просмотру и обсуждению. Возможно, интересный материал.
+
+~ по часу в день
+
+[1/37]
+
+<br/>
+
 ### [Бесплатно] [Онлайн] [ФПМИ МФТИ] [Deep Learning School ] Deep Learning [RUS, февраль 2021]
 
 <br/>
@@ -23,12 +33,6 @@ permalink: /
 <br/>
 
 [**Подробнее**] (/schools/deep-learning-school/)
-
-<br/>
-
-### [[Udemy] [Andrei Neagoie, Daniel Bourke] TensorFlow Developer Certificate in 2021: Zero to Mastery [ENG, 2021]](/videos/ds/libs/tensorflow/en/tensorflow-developer-certificate-in-2021/)
-
-Кто достанет. Подключайтесь к просмотру и обсуждению. Возможно, интересный материал.
 
 <br/>
 
