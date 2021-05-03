@@ -3,7 +3,7 @@ layout: page
 title: Deep Learning School
 description: Deep Learning School
 keywords: Deep Learning School, базовый поток
-permalink: /schools/deep-learning-school/basic/
+permalink: /schools/deep-learning-school/semestr1/basic/
 ---
 
 # Deep Learning (семестр 1, весна 2021): базовый поток
@@ -87,4 +87,4 @@ https://www.youtube.com/watch?v=WcDAj8bJAu8
 
 <br/>
 
-Далее стартует <a href='/schools/deep-learning-school/advanced/'>продвинутая</a> часть курса.
+Далее стартует <a href='/schools/deep-learning-school/semestr1/advanced/'>продвинутая</a> часть курса.

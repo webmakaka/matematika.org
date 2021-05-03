@@ -1,12 +1,19 @@
 ---
 layout: page
-title: Deep Learning School
-description: Deep Learning School
-keywords: Deep Learning School, nlp
-permalink: /schools/deep-learning-school/nlp/
+title: Deep Learning School - Вторая часть курса
+description: Deep Learning School - Вторая часть курса
+keywords: Deep Learning School, Вторая часть курса
+permalink: /schools/deep-learning-school/semestr2/
 ---
 
-# [Deep Learning School] NLP
+# [Deep Learning School] - Вторая часть курса - Семестр2
+
+<br/>
+
+**Семестр 2**  
+https://stepik.org/lesson/486653/
+
+<br/>
 
 **Лекция. Введение в NLP**  
 https://www.youtube.com/watch?v=d0oV1MZ_KdE

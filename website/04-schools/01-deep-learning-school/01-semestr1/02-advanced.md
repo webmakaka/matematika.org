@@ -3,7 +3,7 @@ layout: page
 title: Deep Learning School
 description: Deep Learning School
 keywords: Deep Learning School, продвинутый поток
-permalink: /schools/deep-learning-school/advanced/
+permalink: /schools/deep-learning-school/semestr1/advanced/
 ---
 
 # Deep Learning (семестр 1, весна 2021): продвинутый поток
