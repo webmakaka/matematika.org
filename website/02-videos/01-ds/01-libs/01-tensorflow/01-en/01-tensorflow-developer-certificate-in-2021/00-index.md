@@ -19,4 +19,15 @@ https://github.com/mrdbourke/tensorflow-deep-learning
 
 <br/>
 
+http://colab.research.google.com/
 
+<br/>
+
+В курсе ссылаются и рекомендуют книгу,
+[Орельен Жерон, Прикладное машинное обучение с помощью Scikit-Learn, Keras и TensorFlow](/books/ds/ml/ru/hands-on-machine-learning-with-scikit-learn-and-tensorflow/)
+
+<br/>
+
+**regression**
+
+https://github.com/mrdbourke/tensorflow-deep-learning/blob/main/01_neural_network_regression_in_tensorflow.ipynb
