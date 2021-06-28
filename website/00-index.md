@@ -8,6 +8,10 @@ permalink: /
 
 <br/>
 
+![В России создали нейросеть, которая предсказала победителя Евро-2020](/img/soccer.png 'В России создали нейросеть, которая предсказала победителя Евро-2020'){: .center-image }
+
+<br/>
+
 ### [[Udemy] [Andrei Neagoie, Daniel Bourke] TensorFlow Developer Certificate in 2021: Zero to Mastery [ENG, 2021]](/videos/ds/libs/tensorflow/en/tensorflow-developer-certificate-in-2021/)
 
 Кто достанет. Подключайтесь к просмотру и обсуждению. Возможно, интересный материал.
