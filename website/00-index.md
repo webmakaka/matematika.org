@@ -6,7 +6,13 @@ permalink: /
 
 # Математика
 
+### [Daniel Bourke] 2020 Machine Learning Roadmap (still valid for 2021) [ENG, 2021]
 
+<br/>
+
+<div align="center">
+    <iframe width="853" height="480" src="https://www.youtube.com/embed/pHiMN_gy9mk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 <br/>
 
@@ -35,11 +41,7 @@ https://archive.md/asueg
 
 ### [[Udemy] [Andrei Neagoie, Daniel Bourke] TensorFlow Developer Certificate in 2021: Zero to Mastery [ENG, 2021]](/videos/ds/libs/tensorflow/en/tensorflow-developer-certificate-in-2021/)
 
-Кто достанет. Подключайтесь к просмотру и обсуждению. Возможно, интересный материал.
-
-~ по часу в день
-
-[5 / 32(мин)-37(макс)]
+Первые 14 часов видео, можно смотреть на YouTube.
 
 <br/>
 
