@@ -10,6 +10,18 @@ permalink: /videos/ds/libs/tensorflow/en/tensorflow-developer-certificate-in-202
 
 <br/>
 
+### [Daniel Bourke] Learn TensorFlow and Deep Learning fundamentals with Python (code-first introduction) [ENG, 2021]
+
+<br/>
+
+Первые 14 из 37 часов можно бесплатно посмотреть в YouTube.
+
+<div align="center">
+    <iframe width="853" height="480" src="https://www.youtube.com/embed/videoseries?list=PL6vjgQ2-qJFfU2vF6-lG9DlSa4tROkzt9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+<br/>
+
 https://www.udemy.com/course/tensorflow-developer-certificate-machine-learning-zero-to-mastery/
 
 <br/>

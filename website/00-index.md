@@ -6,9 +6,30 @@ permalink: /
 
 # Математика
 
+
+
+<br/>
+
+### [Coursera/Deeplearning.ai] Notes for Machine Learning Engineering for Production (MLOps) Specialization [ENG, 20??]
+
+https://archive.md/IJPNw
+
+https://archive.md/asueg
+
+<br/>
+
+На сайте Coursera сразу запросили кредитку, не дали попробовать 7 дней trial без карточки.
+
+Кто разберется, поделитесь.
+Можно ссылкой на свой сайт.
+
 <br/>
 
 ![В России создали нейросеть, которая предсказала победителя Евро-2020](/img/soccer.png 'В России создали нейросеть, которая предсказала победителя Евро-2020'){: .center-image }
+
+<br/>
+
+Ранее "нейросеть предсказала" победу сборной Германии над Бразилией в финале ЧМ в РФ.
 
 <br/>
 
