@@ -16,6 +16,12 @@ permalink: /
 
 <br/>
 
+### [[Udemy] [Andrei Neagoie, Daniel Bourke] TensorFlow Developer Certificate in 2021: Zero to Mastery [ENG, 2021]](/videos/ds/libs/tensorflow/en/tensorflow-developer-certificate-in-2021/)
+
+Первые 14 часов видео, можно смотреть на YouTube.
+
+<br/>
+
 ### [Coursera/Deeplearning.ai] Notes for Machine Learning Engineering for Production (MLOps) Specialization [ENG, 20??]
 
 https://archive.md/IJPNw
@@ -28,20 +34,6 @@ https://archive.md/asueg
 
 Кто разберется, поделитесь.
 Можно ссылкой на свой сайт.
-
-<br/>
-
-![В России создали нейросеть, которая предсказала победителя Евро-2020](/img/soccer.png 'В России создали нейросеть, которая предсказала победителя Евро-2020'){: .center-image }
-
-<br/>
-
-Ранее "нейросеть предсказала" победу сборной Германии над Бразилией в финале ЧМ в РФ.
-
-<br/>
-
-### [[Udemy] [Andrei Neagoie, Daniel Bourke] TensorFlow Developer Certificate in 2021: Zero to Mastery [ENG, 2021]](/videos/ds/libs/tensorflow/en/tensorflow-developer-certificate-in-2021/)
-
-Первые 14 часов видео, можно смотреть на YouTube.
 
 <br/>
 
@@ -80,6 +72,8 @@ https://www.youtube.com/watch?v=UoJ6qy1xwG4
 ### [Бесплатно] [Онлайн] [RS School] Introduction to Machine Learning [RUS, 18 января 2021]
 
 Rs school курс по ml. Срок обучения 1 месяц.
+
+(Обучение завершено. Остались лекции, задания и история сообщений в чате школы.)
 
 [Подробнее](/schools/rs-school/)
 

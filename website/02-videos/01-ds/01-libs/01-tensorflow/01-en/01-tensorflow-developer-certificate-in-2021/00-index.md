@@ -14,7 +14,9 @@ permalink: /videos/ds/libs/tensorflow/en/tensorflow-developer-certificate-in-202
 
 <br/>
 
-Первые 14 из 37 часов можно бесплатно посмотреть в YouTube.
+Первые 14 (из 37) часов можно бесплатно посмотреть в YouTube. Далее можно или купить, или найти.
+
+<br/>
 
 <div align="center">
     <iframe width="853" height="480" src="https://www.youtube.com/embed/videoseries?list=PL6vjgQ2-qJFfU2vF6-lG9DlSa4tROkzt9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

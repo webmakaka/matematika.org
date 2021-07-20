@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Оргазинации обучающие по направлениям DS, Machine Learning, Deep Learning
-description: Оргазинации обучающие по направлениям DS, Machine Learning, Deep Learning
-keywords: Оргазинации обучающие по направлениям DS, Machine Learning, Deep Learning
+title: Оргазинации, обучающие по направлениям DS, Machine Learning, Deep Learning
+description: Оргазинации, обучающие по направлениям DS, Machine Learning, Deep Learning
+keywords: Оргазинации, обучающие по направлениям DS, Machine Learning, Deep Learning
 permalink: /schools/
 ---
 
-# Оргазинации обучающие по направлениям DS, Machine Learning, Deep Learning
+# Оргазинации, обучающие по направлениям DS, Machine Learning, Deep Learning
 
 <br/>
 
@@ -21,6 +21,8 @@ permalink: /schools/
 ### [Specialist] (/schools/specialist/)
 
 ### [Skillbox](/schools/skillbox/)
+
+### [DeepLearning.ai [ENG]](/schools/deeplearning-ai/)
 
 ### [Otus](/schools/otus/)
 
