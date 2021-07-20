@@ -53,13 +53,11 @@ https://archive.md/asueg
     <iframe width="853" height="480" src="https://www.youtube.com/embed/lREu-WNmG4Q" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-<br/>
-
 **Будет использоваться PyTorch**
 
 <br/>
 
-[**Подробнее**] (/schools/deep-learning-school/)
+[**Подробнее**](/schools/deep-learning-school/)
 
 <br/>
 
@@ -71,10 +69,10 @@ https://www.youtube.com/channel/UCimGOl6wSQWDbBFoVMQGzMg/playlists?view=50&sort=
 
 ### [YouTube] [Лекторий ФПМИ] Инфраструктура больших данных [RUS, 2021]
 
-Инфраструктура больших данных 1. Введение
+Инфраструктура больших данных 1. Введение  
 https://www.youtube.com/watch?v=C5n80MSeFgI
 
-Инфраструктура больших данных 1. Знакомство с репозиторием
+Инфраструктура больших данных 1. Знакомство с репозиторием  
 https://www.youtube.com/watch?v=UoJ6qy1xwG4
 
 <br/>
@@ -83,7 +81,7 @@ https://www.youtube.com/watch?v=UoJ6qy1xwG4
 
 Rs school курс по ml. Срок обучения 1 месяц.
 
-[Подробнее] (/schools/rs-school/)
+[Подробнее](/schools/rs-school/)
 
 <br/>
 
