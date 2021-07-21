@@ -1,22 +1,20 @@
 ---
 layout: page
-title: Подготовка виртуального окружения для запуска jupyter notebook приложений в изолированной среде
-description: Подготовка виртуального окружения для запуска jupyter notebook приложений в изолированной среде
+title: Подготовка виртуального окружения для запуска jupyter notebook приложений в изолированной среде в Ubuntu 20.04.2 LTS
+description: Подготовка виртуального окружения для запуска jupyter notebook приложений в изолированной среде в Ubuntu 20.04.2 LTS
 keywords: ds, devtools, python, virtualenv, ubuntu
 permalink: /ds/devtools/python/virtualenv/
 ---
 
-# Подготовка виртуального окружения для запуска jupyter notebook приложений в изолированной среде
-
-<br/>
-
-Ubuntu 20.04 LTS
-
-<br/>
+# Подготовка виртуального окружения для запуска jupyter notebook приложений в изолированной среде в Ubuntu 20.04.2 LTS
 
 ```
-$ python3 --version
-Python 3.8.5
+$ lsb_release -a
+No LSB modules are available.
+Distributor ID:	Ubuntu
+Description:	Ubuntu 20.04.2 LTS
+Release:	20.04
+Codename:	focal
 ```
 
 <br/>
@@ -28,10 +26,16 @@ $ sudo apt-get install -y virtualenv
 
 <br/>
 
+```
+$ python3 --version
+Python 3.8.10
+```
+
+<br/>
+
 ### Запуск jupyter notebook и стандартных библиотек
 
 ```python
-
 $ mkdir -p ~/projects/dev/ml
 $ cd ~/projects/dev/ml
 
@@ -42,9 +46,26 @@ $ mkdir ${PROJECT_NAME} && cd ${PROJECT_NAME}
 $ virtualenv --system-site-packages -p python ${PROJECT_NAME}-env
 
 $ source ${PROJECT_NAME}-env/bin/activate
+```
+
+<br/>
+
+```python
+$ python --version
+Python 3.8.10
 
 $ pip install --upgrade pip
 
+$ pip --version
+pip 21.1.3
+
+```
+
+<br/>
+
+### Установка нужных пакетов
+
+```python
 $ {
     pip install --upgrade jupyter
     pip install --upgrade matplotlib
@@ -54,15 +75,12 @@ $ {
     pip install --upgrade scikit-learn
     pip install --upgrade seaborn
 }
-
 ```
 
 <br/>
 
-```
-
-    $ jupyter notebook --ip 0.0.0.0 --port 8888
-
+```python
+$ jupyter notebook --ip 0.0.0.0 --port 8888
 ```
 
 <br/>

@@ -82,6 +82,9 @@ permalink: /ds/ml/
 - http://archive.ics.uci.edu/ml/datasets/
 - https://github.com/awesomedata/awesome-public-datasets
 - 25000 картинок с отсортированными кошками и собаками https://github.com/matematika-org/CATS_DOGS
+- https://registry.opendata.aws/
+- https://dataportals.org/
+- https://www.quandl.com/
 
 <br/>
 
