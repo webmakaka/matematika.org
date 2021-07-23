@@ -8,6 +8,8 @@ permalink: /ds/devtools/python/virtualenv/
 
 # Подготовка виртуального окружения для запуска jupyter notebook приложений в изолированной среде в Ubuntu 20.04.2 LTS
 
+<br/>
+
 ```
 $ lsb_release -a
 No LSB modules are available.
@@ -113,101 +115,13 @@ sklearn 0.24.1
 
 <br/>
 
-### Всевозможное примеры для запуска Tensorflow 2
 
-Могло несколько устареть.
-
-<!--
-    $ pip install yolk3k
-    $ yolk -V tensorflow
--->
-
-    $ pip install --upgrade tensorflow==2.0.0
+### Проверка версии python и библиотеки tensorflow
 
 ```
-(tf_2) $ python -c "import tensorflow as tf; x = [[2.]]; print('tensorflow version', tf.__version__); print('hello, {}'.format(tf.matmul(x, x)))"
-```
-
-    $ pip install jupyterlab
-
-    $ mkdir -p ~/jupyter
-    $ cd ~/jupyter
-
-    $ jupyter notebook --ip 0.0.0.0 --port 8888
-
-<br/>
-
-http://<jupyter_host>:8888
-
-Посмотреть в консоли token.
-
-<br/>
-
-```
-
 from platform import python_version
 print('python: ' + python_version())
 
 import tensorflow as tf
 print('tf: ' + tf.__version__)
-
 ```
-
-python: 3.6.8
-tf: 2.0.0
-
-Все ок.
-
-<!--
-
-<br/>
-
-**Скорее всего, не следует заменять python на версию по умолчанию 3, т.к. некоторые программы, могут перестать работать правильно (По крайней мере в версиях ubuntu до 20). Но это дело каждого.**
-
-<br/>
-
-С версией 3.8 не заработал jupyter из коробки. Наверное, тоже нужно было установить pexpect.
-
-Советую не downgrad'ить системную версию python. Я попробовал и переустановил ubuntu с 0.
-
-```python
-$ sudo apt-get update && sudo apt-get upgrade -y
-$ sudo apt-get install -y python3.7
-
-$ sudo apt-get install -y virtualenv
-
-$ ls /usr/bin/python3.7
-
-// Приоритет 1
-$ sudo update-alternatives --install /usr/bin/python python /usr/bin/python3.7 1
-$ sudo update-alternatives --install /usr/bin/python3 python3 /usr/bin/python3.7 1
-
-
-// Не нужон он нам ваш python версии 2.
-$ update-alternatives --list python
-$ update-alternatives --list python3
-
-$ sudo update-alternatives --config python
-$ sudo update-alternatives --config python3
-
-
-Новое окно
-
-$ python --version
-Python 3.7.5
-
-
-$ python3 --version
-Python 3.7.5
-
-```
-
--->
-
-<!--
-
-// Без этого пакета ошибка
-// def expect(self, pattern, timeout=-1, searchwindowsize=-1, async=False):
-$ pip install --upgrade pexpect
-
--->

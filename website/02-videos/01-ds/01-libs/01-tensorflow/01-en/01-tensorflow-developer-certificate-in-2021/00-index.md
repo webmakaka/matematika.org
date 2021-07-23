@@ -31,9 +31,6 @@ https://www.udemy.com/course/tensorflow-developer-certificate-machine-learning-z
 **GitHub:**  
 https://github.com/mrdbourke/tensorflow-deep-learning
 
-<br/>
-
-http://colab.research.google.com/
 
 <br/>
 
@@ -42,6 +39,22 @@ http://colab.research.google.com/
 
 <br/>
 
-**regression**
+[00. Getting started with TensorFlow: A guide to the fundamentals](https://colab.research.google.com/github/mrdbourke/tensorflow-deep-learning/blob/main/00_tensorflow_fundamentals.ipynb)
 
-https://github.com/mrdbourke/tensorflow-deep-learning/blob/main/01_neural_network_regression_in_tensorflow.ipynb
+
+[01. Neural Network Regression with TensorFlow](https://colab.research.google.com/github/mrdbourke/tensorflow-deep-learning/blob/main/01_neural_network_regression_in_tensorflow.ipynb)
+
+
+<br/>
+
+
+| **Hyperparameter** | **Typical value** |
+| --- | --- |
+| Input layer shape | Same shape as number of features (e.g. 3 for # bedrooms, # bathrooms, # car spaces in housing price prediction) |
+| Hidden layer(s) | Problem specific, minimum = 1, maximum = unlimited |
+| Neurons per hidden layer | Problem specific, generally 10 to 100 |
+| Output layer shape | Same shape as desired prediction shape (e.g. 1 for house price) |
+| Hidden activation | Usually [ReLU](https://www.kaggle.com/dansbecker/rectified-linear-units-relu-in-deep-learning) (rectified linear unit) |
+| Output activation | None, ReLU, logistic/tanh |
+| Loss function | [MSE](https://en.wikipedia.org/wiki/Mean_squared_error) (mean square error) or [MAE](https://en.wikipedia.org/wiki/Mean_absolute_error) (mean absolute error)/Huber (combination of MAE/MSE) if outliers |
+| Optimizer | [SGD](https://www.tensorflow.org/api_docs/python/tf/keras/optimizers/SGD) (stochastic gradient descent), [Adam](https://www.tensorflow.org/api_docs/python/tf/keras/optimizers/Adam) |

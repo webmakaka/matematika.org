@@ -60,11 +60,16 @@ http://go.dialektika.com/mlearning
 
 ## Глава 2: Полный проект машинного обучения
 
+[colab](https://colab.research.google.com/github/ageron/handson-ml2/blob/master/02_end_to_end_machine_learning_project.ipynb)
+
+
+
 Критерий качества: RMSE
 
 <br/>
 
-Notebook'и можно запускать локально или в colab.
+Notebook'и можно запускать локально или в colab.  
+Локально больше часа выполнялись вычисления и так и не завершил их.
 
 <br/>
 
@@ -86,4 +91,4 @@ $ jupyter notebook --ip 0.0.0.0 --port 8888
 
 <br/>
 
-https://colab.research.google.com/github/ageron/handson-ml2/blob/master/02_end_to_end_machine_learning_project.ipynb
+
