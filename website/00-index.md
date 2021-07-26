@@ -6,6 +6,14 @@ permalink: /
 
 # Математика
 
+<br/>
+
+### [MIT] intro to deeplearning
+
+http://introtodeeplearning.com/
+
+<br/>
+
 ### [Daniel Bourke] 2020 Machine Learning Roadmap (still valid for 2021) [ENG, 2021]
 
 <br/>

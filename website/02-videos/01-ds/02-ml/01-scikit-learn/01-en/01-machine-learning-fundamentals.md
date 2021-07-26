@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Machine Learning Fundamentals
+description: Machine Learning Fundamentals
+keywords: videos, ds, ml, scikit-learn, fundamentals
 permalink: /videos/ds/ml/scikit-learn/en/machine-learning-fundamentals/
 ---
 

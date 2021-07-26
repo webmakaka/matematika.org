@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Scikit-learn
+description: Scikit-learn
+keywords: videos, ds, ml, scikit-learn
 permalink: /videos/ds/ml/scikit-learn/en/
 ---
 
