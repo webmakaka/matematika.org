@@ -14,6 +14,8 @@ https://sundog-education.com/recsys/
 
 https://www.anaconda.com/
 
+<br/>
+
     $ conda install -c anaconda anaconda-navigator
     $ conda install -c conda-forge scikit-surprise
     $ anaconda-navigator

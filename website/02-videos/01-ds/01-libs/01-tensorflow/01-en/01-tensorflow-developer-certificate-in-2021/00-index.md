@@ -24,7 +24,7 @@ permalink: /videos/ds/libs/tensorflow/en/tensorflow-developer-certificate-in-202
 
 <br/>
 
-https://www.udemy.com/course/tensorflow-developer-certificate-machine-learning-zero-to-mastery/
+[Course Link](https://www.udemy.com/course/tensorflow-developer-certificate-machine-learning-zero-to-mastery/)
 
 <br/>
 
@@ -38,9 +38,11 @@ https://github.com/mrdbourke/tensorflow-deep-learning
 
 <br/>
 
-[00. Getting started with TensorFlow: A guide to the fundamentals](https://colab.research.google.com/github/mrdbourke/tensorflow-deep-learning/blob/main/00_tensorflow_fundamentals.ipynb)
+## [00. Getting started with TensorFlow: A guide to the fundamentals](https://colab.research.google.com/github/mrdbourke/tensorflow-deep-learning/blob/main/00_tensorflow_fundamentals.ipynb)
 
-[01. Neural Network Regression with TensorFlow](https://colab.research.google.com/github/mrdbourke/tensorflow-deep-learning/blob/main/01_neural_network_regression_in_tensorflow.ipynb)
+<br/>
+
+## [01. Neural Network Regression with TensorFlow](https://colab.research.google.com/github/mrdbourke/tensorflow-deep-learning/blob/main/01_neural_network_regression_in_tensorflow.ipynb)
 
 <br/>
 
@@ -118,3 +120,19 @@ To improve our model, we alter almost every part of the 3 steps we went through 
 <br/>
 
 ### Saving a model
+
+<br/>
+
+### Пробуем запустить пример из всего выше изученного на примере какой-то задачи страхования
+
+<br/>
+
+## [02. Neural Network Classification with TensorFlow](https://colab.research.google.com/github/mrdbourke/tensorflow-deep-learning/blob/main/02_neural_network_classification_in_tensorflow.ipynb)
+
+<br/>
+
+**Types of classification**
+
+- Binary classification
+- Milticlass classification
+- Multilabel classification
