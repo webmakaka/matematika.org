@@ -8,9 +8,36 @@ permalink: /
 
 <br/>
 
-### [MIT] intro to deeplearning
+### [Eduonix Learning Solutions] Time Series Modelling Explained | Machine Learning Tutorial | Eduonix [ENG, 2021]
+
+https://www.youtube.com/watch?v=F4okNMeTEag
+
+<br/>
+
+### [MIT] intro to deeplearning and other
 
 http://introtodeeplearning.com/
+
+<br/>
+
+**Made With ML**  
+https://github.com/GokuMohandas/MadeWithML
+
+<br/>
+
+### [Andrej Baranovskij] Machine Learning Pipeline End-to-End Solution
+
+https://towardsdatascience.com/ml-pipeline-end-to-end-solution-5889690abbd8
+
+https://www.youtube.com/watch?v=VlW7WJi51Xk&list=PLN59qAN6gRxoB7xUrFQ8--Yf927F_QFKG
+
+http://andrejusb.blogspot.com/
+
+<br/>
+
+**A Friendly Introduction To Deep Reinforcement Learning**
+
+https://www.youtube.com/watch?v=t73mEivrkAI
 
 <br/>
 

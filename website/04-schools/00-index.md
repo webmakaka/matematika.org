@@ -38,6 +38,8 @@ permalink: /schools/
 
 ### [МФТИ](/schools/mfti/)
 
+### [Coursera](/schools/coursera/)
+
 <br/>
 
 GeekBransk, SkillBox, OTUS - может быть еще какие-то компании имеют отношение к Mail.ru Group.

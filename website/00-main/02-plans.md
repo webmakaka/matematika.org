@@ -24,6 +24,8 @@ permalink: /plans/
 
 **Когда-то потом:**
 
+### [Udemy, Hadelin de Ponteves] Deep Reinforcement Learning 2.0 [ENG, 2021]
+
 ### [DeepLearning.AI] TensorFlow Developer Professional Certificate [ENG, 2021]
 
 ### [[Бесплатная книга] Deep Learning with PyTorch [ENG]](/books/ds/dl/pytorch/deep-learning-with-pytorch/en/)

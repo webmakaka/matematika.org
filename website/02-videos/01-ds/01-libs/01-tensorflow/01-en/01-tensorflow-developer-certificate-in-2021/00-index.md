@@ -134,5 +134,17 @@ To improve our model, we alter almost every part of the 3 steps we went through 
 **Types of classification**
 
 - Binary classification
-- Milticlass classification
+- Milticlass classification (fashion_mnist)
 - Multilabel classification
+
+<br/>
+
+## [03. Convolutional Neural Networks and Computer Vision with TensorFlow](https://colab.research.google.com/github/mrdbourke/tensorflow-deep-learning/blob/main/03_convolutional_neural_networks_in_tensorflow.ipynb)
+
+<br/>
+
+Традиционные Кошечки / собачки - заменены на pizza / steak
+
+<br/>
+
+https://poloclub.github.io/cnn-explainer/
