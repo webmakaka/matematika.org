@@ -24,6 +24,8 @@ permalink: /plans/
 
 **Когда-то потом:**
 
+### [Book, O'Reilly, ] Machine Learning Design Patterns: Solutions to Common Challenges in Data Preparation, Model Building, and MLOps [ENG, 2020]
+
 ### [Udemy, Hadelin de Ponteves] Deep Reinforcement Learning 2.0 [ENG, 2021]
 
 ### [DeepLearning.AI] TensorFlow Developer Professional Certificate [ENG, 2021]

@@ -8,6 +8,18 @@ permalink: /
 
 <br/>
 
+### [Derek Banas] Python for Finance [ENG, 2021]
+
+https://www.youtube.com/watch?v=nNkKTJTu-mU
+
+<br/>
+
+### [Coding Tech] Effective Pandas [ENG, 2021]
+
+https://www.youtube.com/watch?v=UURvPeczxJI
+
+<br/>
+
 ### [Eduonix Learning Solutions] Time Series Modelling Explained | Machine Learning Tutorial | Eduonix [ENG, 2021]
 
 https://www.youtube.com/watch?v=F4okNMeTEag
