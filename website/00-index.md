@@ -8,9 +8,28 @@ permalink: /
 
 <br/>
 
+### [Deep Learning School] [Бесплатно] МФТИ новый семестр [RUS, 2021]
+
+17 сентября состоится орг.собрание.  
+Если кому интересно, подробности здесь.  
+https://t.me/deep_learning_school_news/323
+
+Записи можно посмотреть <a href="/schools/deep-learning-school/">здесь</a>
+
+<br/>
+
+### [RASA] Создание интеллектуальных чат ботов
+
+Предлагаю совместно покопать.  
+Если кому интересно и он сможет предложить что-то, заходите <a href="/schools/deep-learning-school/">сюда</a>
+
+<br/>
+
 ### [Derek Banas] Python for Finance [ENG, 2021]
 
 https://www.youtube.com/watch?v=nNkKTJTu-mU
+
+https://www.youtube.com/watch?v=Dw6MpsxYbbc
 
 <br/>
 

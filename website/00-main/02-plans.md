@@ -26,6 +26,18 @@ permalink: /plans/
 
 ### [Book, O'Reilly, ] Machine Learning Design Patterns: Solutions to Common Challenges in Data Preparation, Model Building, and MLOps [ENG, 2020]
 
+<br/>
+
+**ML Deployment in TensorFlow | Machine Learning Tutorial | Eduonix**
+
+https://www.youtube.com/watch?v=2x7dyu1grpk
+
+<br/>
+
+**[Pragmatic AI Labs] Introduction to MLOps**
+
+https://www.youtube.com/watch?v=Kvxaj6pHeVA
+
 ### [Udemy, Hadelin de Ponteves] Deep Reinforcement Learning 2.0 [ENG, 2021]
 
 ### [DeepLearning.AI] TensorFlow Developer Professional Certificate [ENG, 2021]
