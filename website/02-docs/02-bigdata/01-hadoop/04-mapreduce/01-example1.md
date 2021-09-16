@@ -57,7 +57,7 @@ permalink: /ds/bigdata/hadoop/mapreduce/example1/
 
 <br/>
 
-Нужен maven 3 версии. Поставил <a href="//javadev.org/devtools/assembly-tools/maven/linux/centos/7/">Maven 3.6.2</a>.
+Нужен maven 3 версии. Поставил <a href="//javadev.org/devtools/assembly/maven/linux/centos/7/">Maven 3.6.2</a>.
 
     $ git clone https://github.com/tomwhite/hadoop-book
     $ cd hadoop-book/ch02-mr-intro/
