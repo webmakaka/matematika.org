@@ -62,11 +62,11 @@ permalink: /ds/ml/
 
 ### Дистрибутивы и среды запуска кода
 
-1. Мне видится, что лучше самостоятельно поднять свое <a href="/ds/devtools/python/virtualenv/">виртульное окружение</a> с помощью python
+1. Мне видится, что лучше самостоятельно поднять свое <a href="/dev/tools/python/virtualenv/">виртульное окружение</a> с помощью python
 
-2. Или использовать подготовленный специалистами и уже готовый к работе <a href="/ds/devtools/python/docker/">Docker</a> контейнер.
+2. Или использовать подготовленный специалистами и уже готовый к работе <a href="/dev/tools/python/docker/">Docker</a> контейнер.
 
-3. Также имеется вариант с использованием дистрибутива <a href="/ds/devtools/python/anaconda/">Anaconda</a>, в которой уже все установлено и настроено.
+3. Также имеется вариант с использованием дистрибутива <a href="/dev/tools/python/anaconda/">Anaconda</a>, в которой уже все установлено и настроено.
 
 4. Облачный Notebook от<a href="https://colab.research.google.com/">Google Colab</a>
 

@@ -8,6 +8,8 @@ permalink: /sitemap/
 
 # Карта Сайта
 
+### [Рекомендации по изучению](/recommendations/)
+
 <br/>
 
 ### [Machine Learning / Deep Learning](/ds/)

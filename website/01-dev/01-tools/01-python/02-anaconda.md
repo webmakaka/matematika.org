@@ -2,8 +2,8 @@
 layout: page
 title: Anaconda
 description: Работа с дистрибутивом anaconda для подготовки окружения на python
-keywords: python, anaconda
-permalink: /ds/devtools/python/anaconda/
+keywords: dev, tools, python, anaconda, ubuntu
+permalink: /dev/tools/python/anaconda/
 ---
 
 # Anaconda
@@ -16,7 +16,7 @@ https://www.anaconda.com/distribution/
 
 <br/>
 
-Хотя у меня и установлена Anaconda, мне пока требуется только jupyter notebook. Для доступа к нему, я запускаю <a href="/ds/devtools/python/docker/">docker контейнер</a>, подготовленный для работы с библиотекой tensorflow. И уже работаю с ним.
+Хотя у меня и установлена Anaconda, мне пока требуется только jupyter notebook. Для доступа к нему, я запускаю <a href="/dev/tools/python/docker/">docker контейнер</a>, подготовленный для работы с библиотекой tensorflow. И уже работаю с ним.
 
 <br/>
 

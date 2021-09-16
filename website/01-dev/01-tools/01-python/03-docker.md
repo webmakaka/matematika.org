@@ -2,8 +2,8 @@
 layout: page
 title: Запуск контейнера с TensorFlow в docker
 description: Запуск контейнера с TensorFlow в docker
-keywords: python, docker, tensorflow
-permalink: /ds/devtools/python/docker/
+keywords: dev, tools, python, docker, tensorflow, ubuntu
+permalink: /dev/tools/python/docker/
 ---
 
 # Запуск контейнера с TensorFlow в docker
@@ -133,11 +133,8 @@ http://localhost:8888/?token=7aec80a332055a8812f1ee22605cb007c1e4fe7b1fa00b29
     // check tensorflow version
     # pip3 show tensorflow
 
-```
-
 <br/>
 
 Была необходимость добавлять requests для скачивания файлов из интернет:
 
     # pip3 install --upgrade requests
-```

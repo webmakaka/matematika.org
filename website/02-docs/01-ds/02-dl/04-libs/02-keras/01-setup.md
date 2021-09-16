@@ -10,7 +10,7 @@ permalink: /ds/dl/keras/setup/
 
 ## Запуск в Docker контейнере
 
-Запускать буду в <a href="/ds/devtools/python/docker/">docker</a> под ubuntu linux в специально подготовленном контейнере для tensorflow. Да не суть. Главное, что jupyter notebook запускается одной командой.
+Запускать буду в <a href="/dev/tools/python/docker/">docker</a> под ubuntu linux в специально подготовленном контейнере для tensorflow. Да не суть. Главное, что jupyter notebook запускается одной командой.
 
 <br/>
 

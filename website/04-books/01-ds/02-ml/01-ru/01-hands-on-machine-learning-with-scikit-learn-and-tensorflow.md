@@ -85,7 +85,7 @@ Notebook'и можно запускать локально или в colab.
 
 **В ubuntu:**
 
-Подготовил окружение как <a href="/ds/devtools/python/virtualenv/">здесь</a>
+Подготовил окружение как <a href="/dev/tools/python/virtualenv/">здесь</a>
 
 <br/>
 

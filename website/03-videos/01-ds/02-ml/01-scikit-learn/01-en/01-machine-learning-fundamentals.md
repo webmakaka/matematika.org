@@ -14,7 +14,7 @@ https://github.com/TrainingByPackt/Machine-Learning-Fundamentals-eLearning
 
 <br/>
 
-### [Запуск контейнера с TensorFlow в docker](/ds/devtools/python/docker/)
+### [Запуск контейнера с TensorFlow в docker](/dev/tools/python/docker/)
 
 <br/>
 

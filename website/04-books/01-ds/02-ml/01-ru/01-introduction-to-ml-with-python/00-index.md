@@ -24,7 +24,7 @@ https://github.com/amueller/introduction_to_ml_with_python
 
 <br/>
 
-Запускать буду в <a href="/ds/devtools/python/docker/">docker</a> под ubuntu linux в специально подготовленном контейнере для tensorflow. Да не суть. Главное, что jupyter notebook запускается одной командой.
+Запускать буду в <a href="/dev/tools/python/docker/">docker</a> под ubuntu linux в специально подготовленном контейнере для tensorflow. Да не суть. Главное, что jupyter notebook запускается одной командой.
 
 UPD. Больше ничего не запускаю в контейнерах. Все в виртуальном окружении для python.
 
