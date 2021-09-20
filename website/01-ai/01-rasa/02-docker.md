@@ -2,92 +2,153 @@
 layout: page
 title: RASA
 description: RASA
-keywords: ai, nlp, nlu, natural language understanding, rasa
-permalink: /ai/nlp/nlu/rasa/
+keywords: ai, nlp, nlu, natural language understanding, rasa, docker
+permalink: /ai/nlp/nlu/rasa/docker/
 ---
 
-# RASA
-
-https://rasa.com/
+# Rasa Docker
 
 <br/>
-
-<div align="center">
-    <iframe width="853" height="480" src="https://www.youtube.com/embed/rlAQWbhwqLA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
-<br/>
-
-## Перед тем как начать
-
-<br/>
-
-### Installing Rasa Open Source on Ubuntu
-
-https://www.youtube.com/watch?v=tXiYJM2vGJk&list=PL75e0qA87dlEWUA5ToqLLR026wIkk2evk&index=3
-
-<!--
-
-<br/>
-
-Поднимаю виртуальное окружение как [здесь](/dev/tools/python/virtualenv/)
-
--->
-
-<br/>
-
-Используется версия python - 3.6.9
-
-<br/>
-
-    $ python3 -m venv ./venv
-    $ source ./venv/bin/activate
-
-<br/>
-
-    $ pip install -U pip
-    $ pip install rasa
-    $ rasa --version
-    $ rasa init
-
-<br/>
-
-    ? Please enter a path where the project will be created [default: current directory] [./rasa-assistant]
-
-    ? Do you want to train an initial model? [Yes]
-
-    ? Do you want to speak to the trained assistant on the command line? [Yes]
-
-<br/>
-
-### (Ep #1 - Rasa Masterclass) Intro to conversational AI and Rasa | Rasa 1.8.0
-
-<br/>
-
-    $ rasa init
-
-    ? Please enter a path where the project will be created [default: current directory] [./rasabot]
-
-    Hello
-
-<br/>
-
-### (Ep #2 - Rasa Masterclass) Creating the NLU training data | Rasa 1.8.0
-
-    $ rasa train nlu
-    $ rasa shell nlu
-
-    $ rasa shell train
-
-    $ rasa run actions && rasa shell
-
-<br/>
-
-### Rasa Docker
-
-https://github.com/RasaHQ/rasa-demo
 
 [Инсталляция docker и docker-compose в ubuntu 20.04](//gitops.ru/containers/docker/setup/ubuntu/)
+
+<br/>
+
+**Understanding Rasa Deployments - Intro to Docker**
+
+<br/>
+
+https://www.youtube.com/watch?v=_UwEbGVjwEg
+
+<br/>
+
+    $ cd ~/projects/rasa-project/rasa/rasa-assistant
+    $ rasa run --enable-api
+
+<br/>
+
+```
+$ curl \
+    --data '{
+      "text":"I am doing great"
+      }' \
+    --header "Content-Type: application/json" \
+    --request POST \
+    --url http://localhost:5005/model/parse \
+    | jq
+```
+
+<br/>
+
+OK!
+
+<br/>
+
+    $ vi Dockerfile
+
+<br/>
+
+```
+FROM python:3.7-slim
+
+RUN python -m pip install rasa
+
+WORKDIR /app
+COPY . .
+
+RUN rasa train nlu
+
+USER 1001
+
+ENTRYPOINT ['rasa']
+
+CMD ["run", "--enable-api", "--port", "8080"]
+```
+
+<br/>
+
+    $ vi .dockerignore
+
+<br/>
+
+```
+tests/*
+models/*
+actions/*
+**/*.md
+venv
+```
+
+<br/>
+
+    $ docker build -t webmakaka/rasa-demo .
+
+<br/>
+
+    // При обучении мой комп с 4GB видео просто выключается.
+    // $ docker run -it -p 8080:8080 webmakaka/rasa-demo
+    $ docker run -it -p 8080:8080 koaning/rasa-demo
+
+<br/>
+
+```
+$ curl \
+    --data '{
+      "text":"I am doing great"
+      }' \
+    --header "Content-Type: application/json" \
+    --request POST \
+    --url http://localhost:8080/model/parse \
+    | jq
+```
+
+<br/>
+
+OK!
+
+<br/>
+
+    // Запуск интерактивного shell
+    // $ docker run -it -p 8080:8080 koaning/rasa-demo shell
+
+<br/>
+
+**Understanding Rasa Deployments - Premade Rasa Containers**
+
+<br/>
+
+https://www.youtube.com/watch?v=i1FCsQ271DA
+
+<br/>
+
+https://hub.docker.com/r/rasa/rasa
+
+<br/>
+
+    $ cd ~/projects/rasa-project/rasa/rasa-assistant
+    $ docker run -it -p 8080:8080 -v $(pwd):/app rasa/rasa:2.8.1-full run --enable-api --port 8080
+
+<br/>
+
+    // Понизить версию rasa до 2.5.0
+    $ docker run -it -p 8080:8080 -v $(pwd):/app rasa/rasa:2.5.0-full run --enable-api --port 8080
+
+<br/>
+
+```
+$ curl \
+    --data '{
+      "text":"I am feeling great"
+      }' \
+    --header "Content-Type: application/json" \
+    --request POST \
+    --url http://localhost:8080/model/parse \
+    | jq
+```
+
+<br/>
+
+localhost:8080/version
 
 <br/>
 
