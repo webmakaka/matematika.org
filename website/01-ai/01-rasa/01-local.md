@@ -1,12 +1,12 @@
 ---
 layout: page
-title: RASA
-description: RASA
+title: RASA на локалхосте
+description: RASA на локалхосте
 keywords: ai, nlp, nlu, natural language understanding, rasa, local
 permalink: /ai/nlp/nlu/rasa/local/
 ---
 
-# RASA
+# RASA на локалхосте
 
 <br/>
 

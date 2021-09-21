@@ -1,7 +1,7 @@
 ---
 layout: page
-title: RASA
-description: RASA
+title: Rasa Docker
+description: Rasa Docker
 keywords: ai, nlp, nlu, natural language understanding, rasa, docker
 permalink: /ai/nlp/nlu/rasa/docker/
 ---

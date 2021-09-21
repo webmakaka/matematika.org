@@ -8,10 +8,22 @@ permalink: /
 
 <br/>
 
+### https://dvc.org/
+
+Open-source Version Control System for Machine Learning Projects
+
+<br/>
+
+### [Лекторий ФПМИ] [Бесплатно] Avatar image Машинное обучение, [RUS, 2021]
+
+https://www.youtube.com/watch?v=rSGdSkd3veA
+
+<br/>
+
 ### [Deep Learning School] [Бесплатно] МФТИ новый семестр [RUS, 2021]
 
-17 сентября состоится орг.собрание.  
-Если кому интересно, подробности здесь.  
+Подробности:
+
 https://t.me/deep_learning_school_news/323
 
 Записи можно посмотреть <a href="/schools/deep-learning-school/">здесь</a>

@@ -12,7 +12,7 @@ https://rasa.com/
 
 <br/>
 
-### [RASA local](/ai/nlp/nlu/rasa/local/)
+### [RASA на локалхосте](/ai/nlp/nlu/rasa/local/)
 
 ### [RASA docker](/ai/nlp/nlu/rasa/docker/)
 
