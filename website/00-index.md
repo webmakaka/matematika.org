@@ -18,6 +18,16 @@ https://www.youtube.com/watch?v=rSGdSkd3veA
 
 <br/>
 
+**Advanced**
+
+Лекция 01: Введение в NLP, векторные представления слов, word2vec | Осень 2021  
+https://www.youtube.com/watch?v=-DR-047yTDw
+
+Лекция 02: CNN в работе с текстом, проблема затухающих градиентов | Осень 2021  
+https://www.youtube.com/watch?v=tPNeoMAxQ5A
+
+<br/>
+
 ### [Блокчейн, выборы etc.] Дистанционное электронное голосование
 
 <br/>
