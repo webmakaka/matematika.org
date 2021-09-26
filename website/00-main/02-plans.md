@@ -24,6 +24,12 @@ permalink: /plans/
 
 **Когда-то потом:**
 
+<br/>
+
+### [Book] Deep Learning Patterns and Practices [English | 2021 | ISBN: 978-1617298264 | 472 Pages | PDF, EPUB, MOBI | 46 MB]
+
+<br/>
+
 ### [Book, O'Reilly, ] Machine Learning Design Patterns: Solutions to Common Challenges in Data Preparation, Model Building, and MLOps [ENG, 2020]
 
 <br/>
@@ -34,8 +40,7 @@ https://www.youtube.com/watch?v=2x7dyu1grpk
 
 <br/>
 
-**[Pragmatic AI Labs] Introduction to MLOps**
-
+**[Pragmatic AI Labs] Introduction to MLOps**  
 https://www.youtube.com/watch?v=Kvxaj6pHeVA
 
 ### [Udemy, Hadelin de Ponteves] Deep Reinforcement Learning 2.0 [ENG, 2021]

@@ -31,6 +31,7 @@ permalink: /ds/bigdata/kafka/samples/
 
 <br/>
 
+    // Отправить сообщения
     $ kafka-console-producer.sh \
     --broker-list kafka1:9092,kafka2:9092,kafka3:9092 \
     --topic test
@@ -54,11 +55,10 @@ permalink: /ds/bigdata/kafka/samples/
 
     $ kafka-topics.sh --zookeeper zookeeper1:2181,zookeeper2:2181,zookeeper3:2181/kafka --topic test --describe
 
-
     // Получить все сообщения
     $ kafka-console-consumer.sh --bootstrap-server kafka1:9092,kafka2:9092,kafka3:9092 --topic test --from-beginning
 
-    // only new messages
+    // Получить только новые сообщения
     $ kafka-console-consumer.sh --bootstrap-server kafka1:9092 --topic test
 
 <br/>
