@@ -8,6 +8,16 @@ permalink: /
 
 <br/>
 
+### [Лекторий ФПМИ] [Бесплатно] Машинное обучение, [RUS, 2021]
+
+**Лекция 1**  
+https://www.youtube.com/watch?v=74Kd-rNxSm0
+
+**Лекция 2**  
+https://www.youtube.com/watch?v=rSGdSkd3veA
+
+<br/>
+
 ### [Блокчейн, выборы etc.] Дистанционное электронное голосование
 
 <br/>
@@ -47,12 +57,6 @@ https://github.com/PeterZhizhin/moscow_deg_decode_votes
 ### https://dvc.org/
 
 Open-source Version Control System for Machine Learning Projects
-
-<br/>
-
-### [Лекторий ФПМИ] [Бесплатно] Машинное обучение, [RUS, 2021]
-
-https://www.youtube.com/watch?v=rSGdSkd3veA
 
 <br/>
 
