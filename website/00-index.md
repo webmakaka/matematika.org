@@ -10,15 +10,28 @@ permalink: /
 
 ### [Лекторий ФПМИ] [Бесплатно] Машинное обучение, [RUS, 2021]
 
+**Полные материалы курса:**  
+https://github.com/girafe-ai/ml-mipt
+
+<br/>
+
+**(1-й семестр)**
+
 **Лекция 1**  
 https://www.youtube.com/watch?v=74Kd-rNxSm0
+
+**Слайды и материалы занятия:**  
+https://github.com/girafe-ai/ml-mipt/tree/21f_basic/week0_01_org_knn_and_naive_bayes
 
 **Лекция 2**  
 https://www.youtube.com/watch?v=rSGdSkd3veA
 
+**Лекция 3**:  
+https://www.youtube.com/watch?v=DkDEkHYcFzE
+
 <br/>
 
-**Advanced**
+**Advanced (2-й семестр)**
 
 Лекция 01: Введение в NLP, векторные представления слов, word2vec | Осень 2021  
 https://www.youtube.com/watch?v=-DR-047yTDw
@@ -26,11 +39,12 @@ https://www.youtube.com/watch?v=-DR-047yTDw
 Лекция 02: CNN в работе с текстом, проблема затухающих градиентов | Осень 2021  
 https://www.youtube.com/watch?v=tPNeoMAxQ5A
 
+Лекция 03: Машинный перевод, механизм Attention | Осень 2021  
+https://www.youtube.com/watch?v=caVw1Nlas6U
+
 <br/>
 
 ### [Блокчейн, выборы etc.] Дистанционное электронное голосование
-
-<br/>
 
 **Точка входа (для тех кто не шарит, как и я)**  
 https://habr.com/ru/post/579350/
@@ -52,8 +66,8 @@ https://github.com/PeterZhizhin/moscow_deg_decode_votes
 
 **Выводы:**
 
-- Нужно изучать rust
-- Нужно изучать blockchain
+- Нужно изучать Rust
+- Нужно изучать Blockchain
 - Нужно изучать ML/DL
 
 Вот этим и будем заниматься.
@@ -67,6 +81,18 @@ https://github.com/PeterZhizhin/moscow_deg_decode_votes
 ### https://dvc.org/
 
 Open-source Version Control System for Machine Learning Projects
+
+https://www.youtube.com/watch?v=kLKBcPonMYw
+
+Надо разобраться с этим.
+
+<br/>
+
+### https://mlflow.org/
+
+Open-source проект. Нужно разобраться.
+
+https://www.youtube.com/watch?v=x3cxvsUFVZA
 
 <br/>
 
