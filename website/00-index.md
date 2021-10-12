@@ -15,13 +15,26 @@ https://github.com/girafe-ai/ml-mipt
 
 <br/>
 
+Пока как-то запутанно. Разные каналы. Разное нумерование.
+
+<br/>
+
 **(1-й семестр)**
 
-**Лекция 1**  
+**[girafe] Лекция 01: Введение, Naive Bayes, kNN | Осень 2021**  
 https://www.youtube.com/watch?v=74Kd-rNxSm0
 
 **Слайды и материалы занятия:**  
 https://github.com/girafe-ai/ml-mipt/tree/21f_basic/week0_01_org_knn_and_naive_bayes
+
+**[girafe] Лекция 02: Линейные модели, регуляризация | Осень 2021**  
+https://www.youtube.com/watch?v=S06bkX7okg0
+
+**Слайды и материалы занятия:**  
+https://github.com/girafe-ai/ml-mipt/tree/21f_basic/week0_02_linear_reg
+
+**[girafe] Семинар 01: Реализация Naive Bayes | Осень 2021**  
+https://www.youtube.com/watch?v=bzCwHkO-YEk
 
 **Лекция 2**  
 https://www.youtube.com/watch?v=rSGdSkd3veA
@@ -66,7 +79,7 @@ https://github.com/PeterZhizhin/moscow_deg_decode_votes
 
 **Выводы:**
 
-- Нужно изучать Rust
+- Нужно изучать [Rust](/videos/lang/rust/)
 - Нужно изучать Blockchain
 - Нужно изучать ML/DL
 
@@ -93,6 +106,10 @@ https://www.youtube.com/watch?v=kLKBcPonMYw
 Open-source проект. Нужно разобраться.
 
 https://www.youtube.com/watch?v=x3cxvsUFVZA
+
+https://www.youtube.com/watch?v=g5ibwiSH1uA
+
+https://www.youtube.com/watch?v=AxYmj8ufKKY
 
 <br/>
 

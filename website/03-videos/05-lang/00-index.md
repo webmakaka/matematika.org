@@ -14,4 +14,6 @@ permalink: /videos/lang/
 
 ### [Java](/videos/lang/java/)
 
+### [Rust](/videos/lang/rust/)
+
 ### [C++](/videos/lang/cpp/)
