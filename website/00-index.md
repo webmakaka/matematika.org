@@ -79,8 +79,8 @@ https://github.com/PeterZhizhin/moscow_deg_decode_votes
 
 **Выводы:**
 
-- Нужно изучать [Rust](/videos/lang/rust/)
-- Нужно изучать Blockchain
+- Нужно изучать [Rust](/study/lang/rust/)
+- Нужно изучать [Blockchain](/study/blockchain/)
 - Нужно изучать ML/DL
 
 Вот этим и будем заниматься.
@@ -259,7 +259,7 @@ Rs school курс по ml. Срок обучения 1 месяц.
 
 Думаю, не лишним будет до начала пересмотреть
 
-<a href="/videos/lang/python/ru/">[Mail.ru] Введение в анализ данных [2019, RUS]</a>
+<a href="/study/lang/python/ru/">[Mail.ru] Введение в анализ данных [2019, RUS]</a>
 
 <br/>
 

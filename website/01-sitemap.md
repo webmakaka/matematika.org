@@ -30,13 +30,13 @@ permalink: /sitemap/
 
 ### [Видеокурсы по BigData (Hadoop, Spark, Kafka)](/videos/ds/bigdata/)
 
-### [Видеокурсы по BlockChain](/videos/blockchain/)
+### [Видеокурсы по BlockChain](/study/blockchain/)
 
 ### [Видеокурсы по математике](/videos/math/)
 
 ### [Видеокурсы по статистике](/videos/statistics/)
 
-### [Видеокурсы по языкам программирования](/videos/lang/)
+### [Видеокурсы по языкам программирования](/study/lang/)
 
 ### [Видеокурсы по робототехнике (Переехало)](https://robotech.info/videos/)
 
