@@ -48,7 +48,7 @@ permalink: /sitemap/
 
 ### [Книги по BigData](/books/bigdata/)
 
-### [BlockChain](/books/blockchain/)
+### [BlockChain](/study/blockchain/)
 
 <br/><br/>
 

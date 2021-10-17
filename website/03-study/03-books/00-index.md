@@ -12,7 +12,7 @@ permalink: /books/
 
 ### [Книги по BigData](/books/bigdata/)
 
-### [BlockChain](/books/blockchain/)
+### [BlockChain](/study/blockchain/)
 
 <br/>
 
