@@ -10,6 +10,10 @@ permalink: /videos/ds/dl/nlp/en/
 
 <br/>
 
+### [LiveLessons] Natural Language Processing LiveLessons, 2nd Edition [ENG, 2021]
+
+<br/>
+
 ### [LiveLessons] Deep Learning for Natural Language Processing, 2nd Edition [ENG, 2020]
 
 https://www.informit.com/store/deep-learning-for-natural-language-processing-livelessons-9780136620044

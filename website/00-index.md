@@ -8,7 +8,19 @@ permalink: /
 
 <br/>
 
-### [Лекторий ФПМИ] [Бесплатно] Машинное обучение, [RUS, 2021]
+### [Coding Tech] Working with Text Data in Pandas [ENG, 2021]
+
+https://www.youtube.com/watch?v=6JNwK6hEneg
+
+<br/>
+
+### [Derek Banas] Python for Data Science [ENG, 2021]
+
+https://www.youtube.com/watch?v=LOQHYn7BLAg
+
+<br/>
+
+### [Лекторий ФПМИ] [Бесплатно] Машинное обучение [RUS, 2021]
 
 **Полные материалы курса:**  
 https://github.com/girafe-ai/ml-mipt

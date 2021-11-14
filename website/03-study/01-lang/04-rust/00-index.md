@@ -1,16 +1,26 @@
 ---
 layout: page
-title: Видеокурсы по изучению языка программирования Rust
-description: Видеокурсы по изучению языка программирования Rust
-keywords: Rust, видеокурсы
+title: Материалы для изучению языка программирования Rust
+description: Материалы для изучению языка программирования Rust
+keywords: программирование, языки, rust, книги, видеокурсы
 permalink: /study/lang/rust/
 ---
 
-# Видеокурсы по изучению языка программирования Rust
+<br/>
+
+# Материалы для изучению языка программирования Rust
 
 <br/>
 
-### [Book] Стив Клабник, Кэрол Никол | Программирование на Rust (2021) [RUS, 2021]
+## Книги для изучению языка программирования Rust
+
+Оф.материалы, в том числе книга
+
+https://www.rust-lang.org/learn
+
+<br/>
+
+### [Book] Стив Клабник, Кэрол Никол | Программирование на Rust [RUS, 2021]
 
 Оригинал 2019
 
@@ -43,6 +53,12 @@ $ cargo build --release
 
 <br/>
 
+### [Book] [O'Reilly, Jim Blandy, Jason Orendorff, and Leonora F.S. Tindall] Programming Rust 2e [ENG, 2021]
+
+<br/>
+
+## Видеокурсы по изучению языка программирования Rust
+
 ### [frontendmasters.com] The Rust Programming Language [ENG, 2021]
 
 **Course Website:**  
@@ -54,7 +70,3 @@ https://github.com/rtfeldman/rust-1.51-workshop
 <br/>
 
 ### [zerotomastery] Rust Programming The Complete Developer's Guide [ENG, 2021]
-
-<br/>
-
-### [Book] [O'Reilly, Jim Blandy, Jason Orendorff, and Leonora F.S. Tindall] Programming Rust 2e [ENG, 2021]
