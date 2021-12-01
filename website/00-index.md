@@ -8,6 +8,18 @@ permalink: /
 
 <br/>
 
+### [Rust] Язык программирования
+
+Предлагаю коллективно, в тихом темпе поизучать [Rust](/study/lang/rust/)
+
+<br/>
+
+- Есть книга на русском.
+- Есть исходники.
+- Есть записи с разбором книги.
+
+<br/>
+
 ### [Coding Tech] Working with Text Data in Pandas [ENG, 2021]
 
 https://www.youtube.com/watch?v=6JNwK6hEneg

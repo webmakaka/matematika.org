@@ -34,7 +34,7 @@ https://www.youtube.com/watch?v=tXiYJM2vGJk&list=PL75e0qA87dlEWUA5ToqLLR026wIkk2
 
 <br/>
 
-Используется версия python - 3.6.9
+**Используется версия python - 3.6.9**
 
 <br/>
 
@@ -44,7 +44,10 @@ https://www.youtube.com/watch?v=tXiYJM2vGJk&list=PL75e0qA87dlEWUA5ToqLLR026wIkk2
 <br/>
 
     $ pip install -U pip
-    $ pip install rasa
+
+    // С последней версией были ошибки
+    // с этой версией работало
+    $ pip install rasa==2.5.0
     $ rasa --version
     $ rasa init
 
@@ -55,6 +58,10 @@ https://www.youtube.com/watch?v=tXiYJM2vGJk&list=PL75e0qA87dlEWUA5ToqLLR026wIkk2
     ? Do you want to train an initial model? [Yes]
 
     ? Do you want to speak to the trained assistant on the command line? [Yes]
+
+    // Чтобы повторно запустить shell
+    $ cd ./rasa-assistant
+    $ rasa shell
 
 <br/>
 

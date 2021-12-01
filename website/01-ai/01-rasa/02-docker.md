@@ -22,8 +22,10 @@ https://www.youtube.com/watch?v=_UwEbGVjwEg
 
 <br/>
 
-    $ cd ~/projects/rasa-project/rasa/rasa-assistant
-    $ rasa run --enable-api
+```
+$ cd ~/projects/rasa-project/rasa/rasa-assistant
+$ rasa run --enable-api
+```
 
 <br/>
 
