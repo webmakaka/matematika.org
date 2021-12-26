@@ -22,7 +22,7 @@ permalink: /ds/bigdata/spark/
 
 <br/>
 
-### [Apache Spark installation in Linux](https://javadev.org/devtools/bigdata/spark/install/linux/)
+### [Apache Spark installation in Linux](https://javadev.org/bigdata/spark/install/linux/)
 
 <br/>
 

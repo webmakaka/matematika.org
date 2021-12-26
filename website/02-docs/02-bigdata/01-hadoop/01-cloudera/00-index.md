@@ -12,7 +12,7 @@ permalink: /ds/bigdata/hadoop/cloudera/
 
 ### [Виртуальная машина с дистрибутивами по направлению BigData от компании Cloudera](/ds/bigdata/hadoop/cloudera/quickstart-vm/)
 
-### [Самостоятельная подготовка кластера на базе дистрибутивов Cloudera](//javadev.org/devtools/bigdata/hadoop/install/cloudera/)
+### [Самостоятельная подготовка кластера на базе дистрибутивов Cloudera](//javadev.org/bigdata/hadoop/install/cloudera/)
 
 ### [Instructions are to set up a 4 node cluster on AWS](/ds/bigdata/hadoop/hortonworks/cloudera-4-node-cluster-on-aws/)
 
