@@ -16,13 +16,25 @@ permalink: /plans/
 
 **Краткосрочные:**
 
-### [Орельен Жерон, Прикладное машинное обучение с помощью Scikit-Learn, Keras и TensorFlow](/books/ds/ml/ru/hands-on-machine-learning-with-scikit-learn-and-tensorflow/)
+### [RS School / EPAM] Введение в машинное обучение [RUS, Старт курса - 7 февраля 2022]
 
-### [[Udemy] [Andrei Neagoie, Daniel Bourke] TensorFlow Developer Certificate in 2021: Zero to Mastery [ENG, 2021]](/videos/ds/libs/tensorflow/en/tensorflow-developer-certificate-in-2021/)
+### [[Видеокурс] [Udemy] [Andy Bek] [The Ultimate Pandas Bootcamp: Advanced Python Data Analysis [ENG, 2021]]](/books/ds/ml/ru/hands-on-machine-learning-with-scikit-learn-and-tensorflow/)
+
+### [[Видеокурс] [Udemy] [Andrei Neagoie, Daniel Bourke] TensorFlow Developer Certificate in 2021: Zero to Mastery [ENG, 2021]](/videos/ds/libs/tensorflow/en/tensorflow-developer-certificate-in-2021/)
+
+### [[Книга] [Орельен Жерон] [Прикладное машинное обучение с помощью Scikit-Learn, Keras и TensorFlow]](/books/ds/ml/ru/hands-on-machine-learning-with-scikit-learn-and-tensorflow/)
 
 <br/>
 
 **Когда-то потом:**
+
+### [LiveLessons] AI in Marketing: Master Techniques to Make AI Work for You [ENG, 2021]
+
+### [LiveLessons] Data Engineering Foundations LiveLessons Part 1
+
+<br/>
+
+**Когда-то совсем не скоро:**
 
 <br/>
 
@@ -49,7 +61,7 @@ https://www.youtube.com/watch?v=Kvxaj6pHeVA
 
 ### [[Бесплатная книга] Deep Learning with PyTorch [ENG]](/books/ds/dl/pytorch/deep-learning-with-pytorch/en/)
 
-### [Книга] Практическая статистика для специалистов Data Science | Брюс Эндрю, Брюс Питер
+### [Книга, Брюс Эндрю, Брюс Питер] Практическая статистика для специалистов Data Science
 
 <br/>
 

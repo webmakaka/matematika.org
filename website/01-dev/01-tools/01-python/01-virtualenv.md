@@ -31,6 +31,9 @@ sudo apt install -y python3-venv
 $ sudo apt update && sudo apt upgrade -y
 $ sudo apt install -y python3-dev python3-pip
 $ sudo apt install -y virtualenv
+
+// Вроде лишнее, но иногда требуется
+$ sudo apt install -y python3.8-venv
 ```
 
 <br/>
@@ -39,6 +42,8 @@ $ sudo apt install -y virtualenv
 $ python3 --version
 Python 3.8.10
 ```
+
+<br/>
 
 ```
 $ ls -ls /usr/bin/python*

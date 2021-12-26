@@ -30,9 +30,10 @@ https://www.youtube.com/watch?v=OX9HJsJUDxA&list=PLai5B987bZ9CoVR-QEIN9foz4QCJ0H
 $ cd ~/tmp/
 $ curl https://sh.rustup.rs -sSf | sh
 
+$ source $HOME/.cargo/env
+
 $ rustup update
 
-$ source $HOME/.cargo/env
 $ rustc --version
 $ cargo --version
 ```
@@ -46,6 +47,16 @@ rustup home:  /home/marley/.rustup
 
 stable-x86_64-unknown-linux-gnu (default)
 rustc 1.56.1 (59eed8a2a 2021-11-01)
+```
+
+<br/>
+
+```
+// Использовать стабильную версию rust
+$ rustup override set stable
+
+// Использовать последнюю версию rust
+$ rustup override set nightly
 ```
 
 ### [Настройка neovim для работы с языком Rust](/study/lang/rust/neovim/)
@@ -262,3 +273,39 @@ fn main() {
 
 fn route(ip_kind: IpAddrKind) {}
 ```
+
+<br/>
+
+### 07 - Rust's Module System Explained!
+
+<!-- ```
+$ cargo new my-project
+$ cargo new --lib restaurant
+```
+
+```
+$ cargo new --lib restaurant
+$ cd my-project/
+```
+
+<br/>
+
+```
+$ vi ./src/lib.rs
+``` -->
+
+<br/>
+
+### 08 - Common Collections in Rust
+
+<br/>
+
+### 09 - Error Handling in Rust
+
+<br/>
+
+### 10 - Generic Types in Rust
+
+<br/>
+
+### 11 - Traits in Rust
