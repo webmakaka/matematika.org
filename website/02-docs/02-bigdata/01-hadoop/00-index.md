@@ -30,7 +30,7 @@ Offtopic: Если нет необходимости научиться инст
 
 - [Cloudera](/ds/bigdata/hadoop/cloudera/)
 - [Ambari](/ds/bigdata/hadoop/ambari/)
-- [Без использования данных инструментов, ручная настройка](https://javadev.org/bigdata/hadoop/install/linux/)
+- [Без использования данных инструментов, ручная настройка](https://javadev.org/bigdata/hadoop/setup/linux/)
 
 <br/>
 
