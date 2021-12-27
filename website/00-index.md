@@ -31,6 +31,16 @@ https://t.me/matematika_org/
 
 <br/>
 
+### Бесплатный ML Space на базе инструментов Intel®️ oneAPI для всех желающих
+
+![Бесплатный ML Space на базе инструментов Intel®️ oneAPI для всех желающих](/img/sber-trial.png 'Бесплатный ML Space на базе инструментов Intel®️ oneAPI для всех желающих'){: .center-image }
+
+<br/>
+
+https://www.youtube.com/watch?v=F4vdNkfVehY
+
+<br/>
+
 ### [RS School / EPAM] Введение в машинное обучение [RUS, Старт курса - 7 февраля 2022]
 
 <br/>
