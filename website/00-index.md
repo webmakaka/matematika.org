@@ -31,7 +31,7 @@ https://t.me/matematika_org/
 
 <br/>
 
-### Бесплатный ML Space на базе инструментов Intel®️ oneAPI для всех желающих
+### [SberCloud] Бесплатный ML Space на базе инструментов Intel®️ oneAPI для всех желающих [14.10.2021]
 
 ![Бесплатный ML Space на базе инструментов Intel®️ oneAPI для всех желающих](/img/sber-trial.png 'Бесплатный ML Space на базе инструментов Intel®️ oneAPI для всех желающих'){: .center-image }
 

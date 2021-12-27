@@ -12,6 +12,4 @@ permalink: /samples/
 
 ### [DeepLearning](/samples/deeplearning/)
 
-<br/>
-
 ### [BlockChain/Hyperledger](/samples/blockchain/hyperledger/)
