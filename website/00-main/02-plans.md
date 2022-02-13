@@ -32,6 +32,8 @@ permalink: /plans/
 
 ### [LiveLessons] Data Engineering Foundations LiveLessons Part 1
 
+### [LiveLessons] Digital Marketing Analytics Beyond Advertising
+
 <br/>
 
 **Когда-то совсем не скоро:**

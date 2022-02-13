@@ -16,6 +16,21 @@ http://docs.deeppavlov.ai/en/master/features/skills/faq.html
 
 <br/>
 
+```
+// Возникшие ошибки:
+libraries mkl_rt not found
+libraries blis not found
+```
+
+<br/>
+
+```
+$ sudo apt install -y libmkl-dev libblis-dev
+$ pip install Cython
+```
+
+<br/>
+
 ### Пробуем
 
 [Установка виртуального окружения](/dev/tools/python/virtualenv/)
@@ -23,7 +38,8 @@ http://docs.deeppavlov.ai/en/master/features/skills/faq.html
 <br/>
 
 ```
-$ cd ~
+$ mkdir -p ~/${HOME}/projects/dev/ai
+$ cd ~/${HOME}/projects/dev/ai
 $ python3 -m venv ./venv
 $ source ./venv/bin/activate
 ```
@@ -38,21 +54,6 @@ $ pip install -U pip
 
 ```
 $ pip install deeppavlov
-```
-
-<br/>
-
-```
-// Возникшие ошибки:
-libraries mkl_rt not found
-libraries blis not found
-```
-
-<br/>
-
-```
-$ sudo apt install -y libmkl-dev libblis-dev
-$ pip install Cython
 ```
 
 <!--
@@ -91,13 +92,18 @@ $ python -m deeppavlov train tfidf_autofaq
 
 **Interacting**
 
+Запускается и ждет ввода в консоли.
+
 ```
 $ python -m deeppavlov interact tfidf_autofaq -d
 ```
 
 <br/>
 
+### ХЗ
+
 ```
+// pre-trained cosine similarity classifier for classifying input question (vectorized by tfidf)
 $ wget http://files.deeppavlov.ai/faq/school/tfidf_cos_sim_classifier.pkl
 ```
 

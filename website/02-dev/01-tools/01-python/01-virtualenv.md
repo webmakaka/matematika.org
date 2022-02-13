@@ -82,7 +82,7 @@ Python 3.8.10
 $ pip install --upgrade pip
 
 $ pip --version
-pip 21.1.3
+pip 22.0.3
 ```
 
 <br/>
@@ -174,16 +174,18 @@ print('sklearn', sklearn.__version__)
 <br/>
 
 ```
-matplotlib 3.3.4
-numpy 1.19.5
-pandas 1.2.1
-scipy 1.6.0
-sklearn 0.24.1
+matplotlib 3.5.1
+numpy 1.22.2
+pandas 1.4.1
+scipy 1.8.0
+sklearn 1.0.2
 ```
 
 <br/>
 
 ### Проверка версии python и библиотеки tensorflow
+
+<br/>
 
 ```
 from platform import python_version
@@ -192,3 +194,67 @@ print('python: ' + python_version())
 import tensorflow as tf
 print('tf: ' + tf.__version__)
 ```
+
+<br/>
+
+```
+python: 3.8.10
+tf: 2.3.4
+```
+
+<br/>
+
+**Пока не пофиксил:**
+
+```
+2022-02-13 18:58:32.873638: W tensorflow/stream_executor/platform/default/dso_loader.cc:59] Could not load dynamic library 'libcudart.so.10.1'; dlerror: libcudart.so.10.1: cannot open shared object file: No such file or directory
+2022-02-13 18:58:32.873678: I tensorflow/stream_executor/cuda/cudart_stub.cc:29] Ignore above cudart dlerror if you do not have a GPU set up on your machine.
+```
+
+<br/>
+
+### Install NVIDIA CUDA on Ubuntu
+
+https://docs.vmware.com/en/VMware-vSphere-Bitfusion/3.0/Example-Guide/GUID-ABB4A0B1-F26E-422E-85C5-BA9F2454363A.html
+
+Не установилось.
+
+Broken чего-то
+
+<br/>
+
+### NVIDIA Data Science Stack
+
+https://github.com/NVIDIA/data-science-stack
+
+<br/>
+
+```
+$ npm install -g node-gyp@3.6.2
+
+$ node-gyp --version
+v3.6.2
+
+
+$ ./data-science-stack setup-system
+```
+
+<br/>
+
+Не установилось.
+
+<br/>
+
+```
+Depends: node-gyp (>= 3.6.2~) but it is not going to be installed
+```
+
+<!--
+<br/>
+
+### Use nvcc to check CUDA version on Ubuntu
+
+```
+$ sudo apt install nvidia-cuda-toolkit
+$ nvcc --version
+``` -->
