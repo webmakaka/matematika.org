@@ -47,6 +47,14 @@ https://www.youtube.com/watch?v=0lmQEo3NIJ4
 
 <br/>
 
+### [Simplilearn] Artificial Intelligence And Deep Learning Full Course | Artificial Intelligence Course [ENG, 2022]
+
+<br/>
+
+https://www.youtube.com/watch?v=yUjpGMdrWK0
+
+<br/>
+
 ### [Simplilearn] Big Data Full Course 2022 | Big Data Tutorial For Beginners | Big Data Step By Step [ENG, 2022]
 
 <br/>
