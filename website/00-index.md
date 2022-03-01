@@ -39,6 +39,22 @@ https://www.youtube.com/watch?v=xvEKQefqQ7A
 
 <br/>
 
+### [Simplilearn] AI And Machine Learning Full Course 2022 | AI Tutorial | Machine Learning Tutorial [ENG, 2022]
+
+<br/>
+
+https://www.youtube.com/watch?v=0lmQEo3NIJ4
+
+<br/>
+
+### [Simplilearn] Big Data Full Course 2022 | Big Data Tutorial For Beginners | Big Data Step By Step [ENG, 2022]
+
+<br/>
+
+https://www.youtube.com/watch?v=KCEPoPJ8sWw
+
+<br/>
+
 ### AI-технологии: создаем мобильное приложение под iOS с функцией распознавания речи
 
 https://www.youtube.com/watch?v=ScIoe5teh6A
