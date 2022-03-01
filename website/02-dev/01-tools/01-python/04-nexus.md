@@ -18,7 +18,7 @@ permalink: /dev/tools/python/nexus/
 
 <br/>
 
-![Nexus Repo](/img/docs/devtools/python/nexus/pic-nexus3-maven-01.png 'Nexus Repo'){: .center-image }
+![Nexus Repo](/img/docs/devtools/python/nexus/pic-nexus3-python-01.png 'Nexus Repo'){: .center-image }
 
 <br/>
 
@@ -32,7 +32,7 @@ Create PyPi Proxy Repo
 
 <br/>
 
-![Nexus Repo](/img/docs/devtools/python/nexus/pic-nexus3-maven-02.png 'Nexus Repo'){: .center-image }
+![Nexus Repo](/img/docs/devtools/python/nexus/pic-nexus3-python-02.png 'Nexus Repo'){: .center-image }
 
 <br/>
 
@@ -82,7 +82,7 @@ $ pip install flask
 
 <br/>
 
-![Nexus Repo](/img/docs/devtools/python/nexus/pic-nexus3-maven-03.png 'Nexus Repo'){: .center-image }
+![Nexus Repo](/img/docs/devtools/python/nexus/pic-nexus3-python-03.png 'Nexus Repo'){: .center-image }
 
 <br/>
 

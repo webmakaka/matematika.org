@@ -31,6 +31,14 @@ https://t.me/matematika_org/
 
 <br/>
 
+### [Simplilearn] Data Science Full Course 2022 | Data Science For Beginners | Data Science from Scratch [ENG, 2022]
+
+<br/>
+
+https://www.youtube.com/watch?v=xvEKQefqQ7A
+
+<br/>
+
 ### AI-технологии: создаем мобильное приложение под iOS с функцией распознавания речи
 
 https://www.youtube.com/watch?v=ScIoe5teh6A
