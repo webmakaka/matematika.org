@@ -31,6 +31,23 @@ https://t.me/matematika_org/
 
 <br/>
 
+### AI-технологии: создаем мобильное приложение под iOS с функцией распознавания речи
+
+https://www.youtube.com/watch?v=ScIoe5teh6A
+
+Если вы хотите разрабатывать приложение вместе со спикером, вам понадобятся:
+
+- XCode 12+
+- iPhone с iOS 13+ или симулятор с микрофоном
+- Начальные знания Swift
+- [Исходники проекта](https://github.com/eugeneMedia/speech-training).
+
+<br/>
+
+Пока не получилось посмотреть.
+
+<br/>
+
 ### [SberCloud] Бесплатный ML Space на базе инструментов Intel®️ oneAPI для всех желающих [14.10.2021]
 
 ![Бесплатный ML Space на базе инструментов Intel®️ oneAPI для всех желающих](/img/sber-trial.png 'Бесплатный ML Space на базе инструментов Intel®️ oneAPI для всех желающих'){: .center-image }

@@ -13,3 +13,5 @@ permalink: /dev/tools/python/
 ### [Anaconda](/dev/tools/python/anaconda/)
 
 ### [Docker](/dev/tools/python/docker/)
+
+### [Sonatype Nexus Repository Manager (Nexus)](/dev/tools/python/nexus/)

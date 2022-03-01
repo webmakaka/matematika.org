@@ -45,5 +45,19 @@ https://github.com/rolling-scopes-school/ml-intro
 
 <br/>
 
-**Вводная Лекция 0**  
+**00. Вводная Лекция**  
 https://www.youtube.com/watch?v=0dUuKmHb4TM
+
+<br/>
+
+**01. Pandas data manipulations**  
+https://www.youtube.com/watch?v=fDGt4bhxSw8
+
+https://www.kaggle.com/hugomathien/soccer
+
+http://www.football-data.co.uk/notes.txt
+
+<br/>
+
+**01. Exploratory Data Analysis**  
+https://www.youtube.com/watch?v=CqBSPmbl-vg
