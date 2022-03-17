@@ -25,8 +25,22 @@ libraries blis not found
 <br/>
 
 ```
+// Не уверен, что поможет.
+// Можно попробовать python версии 3.6
 $ sudo apt install -y libmkl-dev libblis-dev
 $ pip install Cython
+```
+
+<br/>
+
+Пробовал в контейнерах.
+
+<br/>
+
+```
+FROM python:3.6-slim OK!
+FROM python:3.8-slim FAIL!
+FROM deeppavlov/base-gpu OK!
 ```
 
 <br/>
@@ -63,7 +77,7 @@ $ sudo apt install -y libblas-dev liblapack-dev libatlas-base-dev gfortran
 ```
 
 
-sudo apt-get install -y gfortran libopenblas-dev liblapack-dev
+sudo apt install -y gfortran libopenblas-dev liblapack-dev
 >
 
 https://forums.developer.nvidia.com/t/pip-install-something-but-error-with-could-not-find-a-satisfies-version/66300/3

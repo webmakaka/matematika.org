@@ -11,6 +11,11 @@ permalink: /dev/tools/python/nexus/
 <br/>
 
 Были проблемы с работой в docker. Установил на хост.
+Может быть, просто забыл выбрать "trusted serts"
+
+<br/>
+
+Allow anonymous users to access the server
 
 <br/>
 
@@ -45,7 +50,7 @@ $ cd pip
 <br/>
 
 ```
-$ vi /home/marley/.config/pip/pip.conf
+$ vi ~/.config/pip/pip.conf
 ```
 
 <br/>
@@ -87,7 +92,13 @@ $ pip install flask
 <br/>
 
 ```
-$ pip install --index-url http://localhost:8081/repository/python/simple/ flask
+$ pip install flask --index-url http://192.168.1.9:8081/repository/pypi-proxy/simple/ --trusted-host 192.168.1.9
+```
+
+<br/>
+
+```
+pip3 install -r ./requirements.txt --index-url http://192.168.1.9:8081/repository/pypi-proxy/simple/ --trusted-host 192.168.1.9
 ```
 
 <br/>

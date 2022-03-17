@@ -10,35 +10,15 @@ permalink: /ai/nlp/nlu/rasa/local/
 
 <br/>
 
-<div align="center">
-    <iframe width="853" height="480" src="https://www.youtube.com/embed/rlAQWbhwqLA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+https://www.youtube.com/watch?v=PfYBXidENlg
 
 <br/>
 
-## Перед тем как начать
+[Поднимаю виртуальное окружение](/dev/tools/python/virtualenv/)
 
 <br/>
 
-### Installing Rasa Open Source on Ubuntu
-
-https://www.youtube.com/watch?v=tXiYJM2vGJk&list=PL75e0qA87dlEWUA5ToqLLR026wIkk2evk&index=3
-
-<!--
-
-<br/>
-
-Поднимаю виртуальное окружение как [здесь](/dev/tools/python/virtualenv/)
-
--->
-
-<br/>
-
-**Используется версия python - 3.6.9**
-
-<br/>
-
-    $ python3 -m venv ./venv
+    $ python -m venv ./venv
     $ source ./venv/bin/activate
 
 <br/>
@@ -47,8 +27,75 @@ https://www.youtube.com/watch?v=tXiYJM2vGJk&list=PL75e0qA87dlEWUA5ToqLLR026wIkk2
 
     // С последней версией были ошибки
     // с этой версией работало
-    $ pip install rasa==2.5.0
-    $ rasa --version
+    $ pip install rasa==3.0.9
+
+<br/>
+
+```
+$ rasa --version
+Rasa Version      :         3.0.9
+```
+
+<br/>
+
+```
+$ git clone https://github.com/webmak1/Rasa-3.0-rock-paper-scissors-chatbot
+```
+
+<br/>
+
+```
+$ cd Rasa-3.0-rock-paper-scissors-chatbot/
+```
+
+<br/>
+
+```
+$ rm -rf .rasa/cache/
+$ rm -rf models/
+```
+
+<br/>
+
+```
+$ rasa train
+```
+
+<br/>
+
+```
+$ rasa run actions
+```
+
+<br/>
+
+```
+// Еще 1 терминал
+$ rasa shell
+$ hi
+$ rock
+```
+
+<br/>
+
+```
+Your input ->  hi
+Type 'rock', 'paper' or 'scissors' to play.
+Your input ->  rock
+You chose rock
+The computer chose scissors
+Congrats, you won!
+Do you want play again?
+```
+
+<br/>
+
+## Другие варианты:
+
+### Init
+
+<br/>
+
     $ rasa init
 
 <br/>
@@ -65,23 +112,9 @@ https://www.youtube.com/watch?v=tXiYJM2vGJk&list=PL75e0qA87dlEWUA5ToqLLR026wIkk2
 
 <br/>
 
-### (Ep #1 - Rasa Masterclass) Intro to conversational AI and Rasa | Rasa 1.8.0
-
-<br/>
-
-    $ rasa init
-
-    ? Please enter a path where the project will be created [default: current directory] [./rasabot]
-
-    Hello
-
-<br/>
-
-### (Ep #2 - Rasa Masterclass) Creating the NLU training data | Rasa 1.8.0
+### Команды
 
     $ rasa train nlu
     $ rasa shell nlu
 
     $ rasa shell train
-
-    $ rasa run actions && rasa shell

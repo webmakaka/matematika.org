@@ -29,17 +29,19 @@ sudo apt install -y python3-venv
 
 ```
 $ sudo apt update && sudo apt upgrade -y
+
+// python3 будет по умолчанию называться python
+$ sudo apt install python-is-python3
 $ sudo apt install -y python3-dev python3-pip
 $ sudo apt install -y virtualenv
 
-// Вроде лишнее, но иногда требуется
 $ sudo apt install -y python3.8-venv
 ```
 
 <br/>
 
 ```
-$ python3 --version
+$ python --version
 Python 3.8.10
 ```
 
