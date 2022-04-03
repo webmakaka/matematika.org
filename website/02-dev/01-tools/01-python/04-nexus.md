@@ -10,8 +10,16 @@ permalink: /dev/tools/python/nexus/
 
 <br/>
 
+https://help.sonatype.com/repomanager3/nexus-repository-administration/formats/pypi-repositories
+
+<br/>
+
+### Прокси сервер (proxy)
+
+<br/>
+
 Были проблемы с работой в docker. Установил на хост.
-Может быть, просто забыл выбрать "trusted serts"
+Может быть, просто забыл выбрать "trusted certs"
 
 <br/>
 
@@ -101,10 +109,93 @@ $ pip install flask --index-url http://192.168.1.9:8081/repository/pypi-proxy/si
 pip3 install -r ./requirements.txt --index-url http://192.168.1.9:8081/repository/pypi-proxy/simple/ --trusted-host 192.168.1.9
 ```
 
-<br/>
-
 <!--
 
 https://stackoverflow.com/questions/56592918/how-to-upload-the-python-packages-to-nexus-sonartype-private-repo
 
 -->
+
+<br/>
+
+### Загрузка python пакетов в nexus (hosted)
+
+<br/>
+
+```
+$ pip install twine
+```
+
+<br/>
+
+```
+$ cd ~/tpm
+$ pip download flask
+```
+
+<br/>
+
+```
+$ ls
+click-8.1.2-py3-none-any.whl
+Flask-2.1.1-py3-none-any.whl
+importlib_metadata-4.11.3-py3-none-any.whl
+itsdangerous-2.1.2-py3-none-any.whl
+Jinja2-3.1.1-py3-none-any.whl
+MarkupSafe-2.1.1-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+Werkzeug-2.1.0-py3-none-any.whl
+zipp-3.7.0-py3-none-any.whl
+```
+
+<br/>
+
+```
+$ vi ~/.pypirc
+```
+
+<br/>
+
+```
+[distutils]
+index-servers:
+   nexus
+
+[nexus]
+repository: http://192.168.1.9:8081/repository/pypi-internal/simple/
+username: admin
+password: admin
+```
+
+<br/>
+
+```
+// Если нужно без проверки сертификатов
+$ export CURL_CA_BUNDLE=""
+```
+
+<br/>
+
+```
+$ twine upload --repository nexus ./Flask-2.1.1-py3-none-any.whl
+```
+
+<br/>
+
+```
+$ pip install Flask --index-url http://192.168.1.9:8081/repository/pypi-internal/simple/ --trusted-host 192.168.1.9
+```
+
+<br/>
+
+```
+$ pip show flask
+Name: Flask
+Version: 2.1.1
+Summary: A simple framework for building complex web applications.
+Home-page: https://palletsprojects.com/p/flask
+Author: Armin Ronacher
+Author-email: armin.ronacher@active-4.com
+License: BSD-3-Clause
+Location: /home/marley/.local/lib/python3.8/site-packages
+Requires: Jinja2, click, itsdangerous, Werkzeug, importlib-metadata
+Required-by: prometheus-flask-exporter, mlflow, Flask-Script, flask-restx
+```
