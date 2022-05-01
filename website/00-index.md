@@ -31,6 +31,14 @@ https://t.me/matematika_org/
 
 <br/>
 
+### [sentdex] A. I. Learns to Play Starcraft 2 (Reinforcement Learning) [ENG, 2022]
+
+https://www.youtube.com/watch?v=q59wap1ELQ4
+
+https://github.com/Sentdex/SC2RL
+
+<br/>
+
 ### [Simplilearn] Data Science Full Course 2022 | Data Science For Beginners | Data Science from Scratch [ENG, 2022]
 
 <br/>
