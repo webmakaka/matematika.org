@@ -31,6 +31,12 @@ https://t.me/matematika_org/
 
 <br/>
 
+### [Derek Banas] TensorFlow Tutorial [ENG, 2022]
+
+https://www.youtube.com/watch?v=Y__gyApx_7c
+
+<br/>
+
 ### [sentdex] A. I. Learns to Play Starcraft 2 (Reinforcement Learning) [ENG, 2022]
 
 https://www.youtube.com/watch?v=q59wap1ELQ4

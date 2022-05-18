@@ -28,7 +28,7 @@ https://www.youtube.com/watch?v=OX9HJsJUDxA&list=PLai5B987bZ9CoVR-QEIN9foz4QCJ0H
 ```
 // Инсталляция в linux
 $ cd ~/tmp/
-$ curl https://sh.rustup.rs -sSf | sh
+$ curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 
 $ source $HOME/.cargo/env
 
@@ -46,7 +46,7 @@ Default host: x86_64-unknown-linux-gnu
 rustup home:  /home/marley/.rustup
 
 stable-x86_64-unknown-linux-gnu (default)
-rustc 1.56.1 (59eed8a2a 2021-11-01)
+rustc 1.60.0 (7737e0b5c 2022-04-04)
 ```
 
 <br/>
@@ -58,6 +58,31 @@ $ rustup override set stable
 // Использовать последнюю версию rust
 $ rustup override set nightly
 ```
+
+<br/>
+
+### Hello World!
+
+<br/>
+
+**main.rs**
+
+<br/>
+
+```rust
+fn main() {
+    println!("Hello, World!");
+}
+```
+
+<br/>
+
+```rust
+$ rustc main.rs
+$ ./main
+```
+
+<br/>
 
 ### [Настройка neovim для работы с языком Rust](/study/lang/rust/neovim/)
 
