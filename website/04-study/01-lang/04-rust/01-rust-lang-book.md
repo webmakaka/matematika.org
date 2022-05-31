@@ -95,6 +95,19 @@ $ cargo new hello_cargo
 $ cd hello_cargo/
 $ cargo build
 $ cargo run
+```
+
+<br/>
+
+**response:**
+
+```
+Hello, world!
+```
+
+<br/>
+
+```
 $ cargo check
 $ cargo build --release
 ```

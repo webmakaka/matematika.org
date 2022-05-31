@@ -106,7 +106,7 @@ $ pip install flask --index-url http://192.168.1.9:8081/repository/pypi-proxy/si
 <br/>
 
 ```
-pip3 install -r ./requirements.txt --index-url http://192.168.1.9:8081/repository/pypi-proxy/simple/ --trusted-host 192.168.1.9
+$ pip3 install -r ./requirements.txt --index-url http://192.168.1.9:8081/repository/pypi-proxy/simple/ --trusted-host 192.168.1.9
 ```
 
 <!--
@@ -122,14 +122,24 @@ https://stackoverflow.com/questions/56592918/how-to-upload-the-python-packages-t
 <br/>
 
 ```
-$ pip install twine
+$ cd ~/tpm
+$ pip download flask
 ```
 
 <br/>
 
 ```
-$ cd ~/tpm
-$ pip download flask
+$ pip show flask
+Name: Flask
+Version: 2.1.1
+Summary: A simple framework for building complex web applications.
+Home-page: https://palletsprojects.com/p/flask
+Author: Armin Ronacher
+Author-email: armin.ronacher@active-4.com
+License: BSD-3-Clause
+Location: /home/marley/.local/lib/python3.8/site-packages
+Requires: Jinja2, click, itsdangerous, Werkzeug, importlib-metadata
+Required-by: prometheus-flask-exporter, mlflow, Flask-Script, flask-restx
 ```
 
 <br/>
@@ -175,27 +185,38 @@ $ export CURL_CA_BUNDLE=""
 <br/>
 
 ```
+$ pip install twine
+```
+
+<br/>
+
+```
+// UPLOAD
 $ twine upload --repository nexus ./Flask-2.1.1-py3-none-any.whl
+
+
+Или
+
+$ python -m twine upload --repository nexus dist/*
+
 ```
 
 <br/>
 
 ```
-$ pip install Flask --index-url http://192.168.1.9:8081/repository/pypi-internal/simple/ --trusted-host 192.168.1.9
+// Download
+$ pip download example-package --index-url http://192.168.1.9:8081/repository/pypi-internal/simple/ --trusted-host 192.168.1.9
 ```
 
 <br/>
 
 ```
-$ pip show flask
-Name: Flask
-Version: 2.1.1
-Summary: A simple framework for building complex web applications.
-Home-page: https://palletsprojects.com/p/flask
-Author: Armin Ronacher
-Author-email: armin.ronacher@active-4.com
-License: BSD-3-Clause
-Location: /home/marley/.local/lib/python3.8/site-packages
-Requires: Jinja2, click, itsdangerous, Werkzeug, importlib-metadata
-Required-by: prometheus-flask-exporter, mlflow, Flask-Script, flask-restx
+// INSTALL
+$ pip install example-package --index-url http://192.168.1.9:8081/repository/pypi-internal/simple/ --trusted-host 192.168.1.9
 ```
+
+<br/>
+
+### Packaging Python Projects
+
+https://packaging.python.org/en/latest/tutorials/packaging-projects/
