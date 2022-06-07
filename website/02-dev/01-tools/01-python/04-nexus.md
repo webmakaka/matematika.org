@@ -129,6 +129,13 @@ $ pip download flask
 <br/>
 
 ```
+// Когда нужна специфичная версия.
+$ pip3 download --only-binary=:all: --python-version=37 --abi=cp37m --platform=manylinux2010_x86_64 numpy==1.18.0
+```
+
+<br/>
+
+```
 $ pip show flask
 Name: Flask
 Version: 2.1.1
@@ -193,6 +200,10 @@ $ pip install twine
 ```
 // UPLOAD
 $ twine upload --repository nexus ./Flask-2.1.1-py3-none-any.whl
+
+
+// Еше вариант
+$ twine upload --repository nexus dist/* --skip-existing --verbose
 
 
 Или
