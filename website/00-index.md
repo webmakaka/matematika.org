@@ -31,7 +31,7 @@ https://t.me/matematika_org/
 
 <br/>
 
-### [Book] [Faisal Masood , Ross Brigoli] Machine Learning on Kubernetes [ENG, 2022]
+### [Book] [Faisal Masood, Ross Brigoli] Machine Learning on Kubernetes [ENG, 2022]
 
 Предлагается совместно почитать.
 
@@ -41,6 +41,10 @@ https://t.me/matematika_org/
 
 Книгу найдите сами.  
 Обсуждение в телеграм чате.
+
+### [YouTube] Learn PyTorch for deep learning in a day. Literally [ENG, 2022]
+
+https://www.youtube.com/watch?v=Z_ikDlimN6A
 
 <br/>
 
