@@ -237,7 +237,6 @@ $ npm install -g node-gyp@3.6.2
 $ node-gyp --version
 v3.6.2
 
-
 $ ./data-science-stack setup-system
 ```
 

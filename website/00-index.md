@@ -31,6 +31,19 @@ https://t.me/matematika_org/
 
 <br/>
 
+### [Book] [Faisal Masood , Ross Brigoli] Machine Learning on Kubernetes [ENG, 2022]
+
+Предлагается совместно почитать.
+
+![Machine Learning on Kubernetes](/img/Machine-Learning-on-Kubernetes.png 'Machine Learning on Kubernetes'){: .center-image }
+
+<br/>
+
+Книгу найдите сами.  
+Обсуждение в телеграм чате.
+
+<br/>
+
 ### [Derek Banas] TensorFlow Tutorial [ENG, 2022]
 
 https://www.youtube.com/watch?v=Y__gyApx_7c
@@ -91,16 +104,6 @@ https://www.youtube.com/watch?v=ScIoe5teh6A
 <br/>
 
 Пока не получилось посмотреть.
-
-<br/>
-
-### [SberCloud] Бесплатный ML Space на базе инструментов Intel®️ oneAPI для всех желающих [14.10.2021]
-
-![Бесплатный ML Space на базе инструментов Intel®️ oneAPI для всех желающих](/img/sber-trial.png 'Бесплатный ML Space на базе инструментов Intel®️ oneAPI для всех желающих'){: .center-image }
-
-<br/>
-
-https://www.youtube.com/watch?v=F4vdNkfVehY
 
 <br/>
 

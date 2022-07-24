@@ -106,7 +106,7 @@ $ pip install flask --index-url http://192.168.1.9:8081/repository/pypi-proxy/si
 <br/>
 
 ```
-$ pip3 install -r ./requirements.txt --index-url http://192.168.1.9:8081/repository/pypi-proxy/simple/ --trusted-host 192.168.1.9
+$ pip install -r ./requirements.txt --index-url http://192.168.1.9:8081/repository/pypi-proxy/simple/ --trusted-host 192.168.1.9
 ```
 
 <!--
@@ -124,13 +124,16 @@ https://stackoverflow.com/questions/56592918/how-to-upload-the-python-packages-t
 ```
 $ cd ~/tpm
 $ pip download flask
+
+// Тоже работает
+$ pip download -r ./requirements.txt
 ```
 
 <br/>
 
 ```
 // Когда нужна специфичная версия.
-$ pip3 download --only-binary=:all: --python-version=37 --abi=cp37m --platform=manylinux2010_x86_64 numpy==1.18.0
+$ pip download --only-binary=:all: --python-version=37 --abi=cp37m --platform=manylinux2010_x86_64 numpy==1.18.0
 ```
 
 <br/>
@@ -177,7 +180,7 @@ index-servers:
    nexus
 
 [nexus]
-repository: http://192.168.1.9:8081/repository/pypi-internal/simple/
+repository: http://192.168.1.9:8081/repository/pypi-internal/
 username: admin
 password: admin
 ```
