@@ -42,6 +42,16 @@ https://t.me/matematika_org/
 Книгу найдите сами.  
 Обсуждение в телеграм чате.
 
+<br/>
+
+### [YouTube] Machine Learning Algorithms Full Course For 2022 | AI and Machine Learning Algorithms | Simplilearn [ENG, 2022]
+
+https://www.youtube.com/watch?v=sudtLI2MyCg
+
+https://www.youtube.com/watch?v=WpB5rS7M5uM
+
+<br/>
+
 ### [YouTube] Learn PyTorch for deep learning in a day. Literally [ENG, 2022]
 
 https://www.youtube.com/watch?v=Z_ikDlimN6A

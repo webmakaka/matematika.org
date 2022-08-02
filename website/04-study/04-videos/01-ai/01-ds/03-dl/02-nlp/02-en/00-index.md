@@ -3,10 +3,16 @@ layout: page
 title: Видеокурсы по Natural Language Processing (NLP) на английском языке
 description: Видеокурсы по Natural Language Processing (NLP) на английском языке
 keywords: Видеокурсы, Natural Language Processing, NLP, естественный язык, английский язык
-permalink: /videos/ds/dl/nlp/en/
+permalink: /study/videos/ai/ds/dl/nlp/en/
 ---
 
 # Видеокурсы по Natural Language Processing (NLP) на английском языке
+
+<br/>
+
+### [Udemy][lazy programmer inc.] Machine Learning: Natural Language Processing in Python (V2) [ENG, 2022]
+
+https://github.com/lazyprogrammer/machine_learning_examples
 
 <br/>
 

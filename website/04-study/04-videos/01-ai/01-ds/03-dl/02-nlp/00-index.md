@@ -14,4 +14,4 @@ permalink: /videos/ds/dl/nlp/
 
 -->
 
-### [Видеокурсы по Natural Language Processing (NLP) на английском языке](/videos/ds/dl/nlp/en/)
+### [Видеокурсы по Natural Language Processing (NLP) на английском языке](/study/videos/ai/ds/dl/nlp/en/)
