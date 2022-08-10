@@ -205,13 +205,8 @@ $ pip install twine
 $ twine upload --repository nexus ./Flask-2.1.1-py3-none-any.whl
 
 
-// Еше вариант
-$ twine upload --repository nexus dist/* --skip-existing --verbose
-
-
-Или
-
-$ python -m twine upload --repository nexus dist/*
+// Или еше вариант
+$ python -m twine upload --repository nexus dist/* --skip-existing --verbose
 
 ```
 
