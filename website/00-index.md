@@ -31,6 +31,16 @@ https://t.me/matematika_org/
 
 <br/>
 
+### [Deep Learning School] [Бесплатно] МФТИ новый семестр [RUS, сентябрь 2022]
+
+Подробности:
+
+https://t.me/matematika_org/7473
+
+Обсуждать, наверноем, можно будет <a href="/schools/deep-learning-school/">здесь</a>
+
+<br/>
+
 ### [Book] [Faisal Masood, Ross Brigoli] Machine Learning on Kubernetes [ENG, 2022]
 
 Предлагается совместно почитать.
@@ -41,6 +51,12 @@ https://t.me/matematika_org/
 
 Книгу найдите сами.  
 Обсуждение в телеграм чате.
+
+<br/>
+
+### [YouTube] 🔥Machine Learning Tutorial 2022 | Supervised Unsupervised Reinforcement Learning | Simplilearn [ENG, 2022]
+
+https://www.youtube.com/watch?v=shOnhWDTt8A
 
 <br/>
 
@@ -259,16 +275,6 @@ https://www.youtube.com/watch?v=x3cxvsUFVZA
 https://www.youtube.com/watch?v=g5ibwiSH1uA
 
 https://www.youtube.com/watch?v=AxYmj8ufKKY
-
-<br/>
-
-### [Deep Learning School] [Бесплатно] МФТИ новый семестр [RUS, 2021]
-
-Подробности:
-
-https://t.me/deep_learning_school_news/323
-
-Записи можно посмотреть <a href="/schools/deep-learning-school/">здесь</a>
 
 <br/>
 

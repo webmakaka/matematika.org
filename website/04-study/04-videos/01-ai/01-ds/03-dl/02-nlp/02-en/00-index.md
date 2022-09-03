@@ -12,7 +12,16 @@ permalink: /study/videos/ai/ds/dl/nlp/en/
 
 ### [Udemy][lazy programmer inc.] Machine Learning: Natural Language Processing in Python (V2) [ENG, 2022]
 
+// Автор обещает предоставить colab'ы тем кто купил на udemy его курс и сделал запрос на его сайте + какие-то доп. ограничения.
 https://github.com/lazyprogrammer/machine_learning_examples
+
+TF-IDF (Term Frequency, Inverse Document Frequency)
+
+<br/>
+
+### [Udemy][lazy programmer inc.] Natural Language Processing with Deep Learning in Python [ENG, 2022]
+
+Оригинал слишком старый.
 
 <br/>
 
