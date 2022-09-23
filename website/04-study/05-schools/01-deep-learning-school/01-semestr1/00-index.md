@@ -1,20 +1,20 @@
 ---
 layout: page
-title: Deep Learning School
-description: Deep Learning School
-keywords: Deep Learning School
+title: Deep Learning School - Семестр 1
+description: Deep Learning School - Семестр 1
+keywords: Deep Learning School - Семестр 1
 permalink: /schools/deep-learning-school/semestr1/
 ---
 
-# [Deep Learning School]
+# [Deep Learning School] Семестр 1
 
 <br/>
 
 **Базовый**  
-https://stepik.org/course/91156/
+https://stepik.org/course/124070/promo
 
 **Продвинутый**  
-https://stepik.org/course/91157/promo
+https://stepik.org/course/124069/promo
 
 **Презентация**  
 https://docs.google.com/presentation/d/1z_lO03WpvhJiIT8ARUIDog2YXqfxZdIWfM0ki2xAbIk/edit
@@ -36,9 +36,9 @@ https://docs.google.com/presentation/d/1z_lO03WpvhJiIT8ARUIDog2YXqfxZdIWfM0ki2xA
 
 <br/>
 
-Если в курсе будут полезные знания, которые следует записать, дайте об этом знать.
+В первой лекции, рассказывается про OpenSource проект ipavlov.ai, который можно позапускать. На ютубе проекта, также ведутся лекции и семинары.
 
-В первой лекции, рассказывается про OpenSource проект ipavlov.ai, который (наверное) можно позапускать. На ютубе проекта, также ведутся лекции и семинары.
+Основной инструмент PyTorch
 
 <br/>
 

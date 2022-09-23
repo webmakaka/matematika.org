@@ -6,7 +6,7 @@ keywords: Deep Learning School, Вторая часть курса
 permalink: /schools/deep-learning-school/semestr2/
 ---
 
-# [Deep Learning School] - Вторая часть курса - Семестр2
+# [Deep Learning School] - Вторая часть курса - Семестр 2
 
 <br/>
 

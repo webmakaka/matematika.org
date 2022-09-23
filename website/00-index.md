@@ -33,11 +33,15 @@ https://t.me/matematika_org/
 
 ### [Deep Learning School] [Бесплатно] МФТИ новый семестр [RUS, сентябрь 2022]
 
-Подробности:
+<br/>
 
-https://t.me/matematika_org/7473
+<div align="center">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/2wR5HdAdDO8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
-Обсуждать, наверноем, можно будет <a href="/schools/deep-learning-school/">здесь</a>
+<br/>
+
+Попытка сделать конспект <a href="/schools/deep-learning-school/">здесь</a>. Добавление полезных замечаний и пропущенных важных вещей, приветствуется.
 
 <br/>
 
@@ -125,6 +129,8 @@ https://www.youtube.com/watch?v=KCEPoPJ8sWw
 https://www.youtube.com/watch?v=ScIoe5teh6A
 
 Если вы хотите разрабатывать приложение вместе со спикером, вам понадобятся:
+
+<br/>
 
 - XCode 12+
 - iPhone с iOS 13+ или симулятор с микрофоном

@@ -188,6 +188,9 @@ password: admin
 <br/>
 
 ```
+
+UPD! Делал в env от conda. Не работал. Вышел командой, $ conda deactivate, стало OK!
+
 // Если нужно без проверки сертификатов
 $ export CURL_CA_BUNDLE=""
 ```
@@ -201,8 +204,11 @@ $ pip install twine
 <br/>
 
 ```
-// UPLOAD
+// UPLOAD 1
 $ twine upload --repository nexus ./Flask-2.1.1-py3-none-any.whl
+
+// UPLOAD multiple
+$ twine upload --repository nexus dist/* --skip-existing --verbose
 
 
 // Или еше вариант
