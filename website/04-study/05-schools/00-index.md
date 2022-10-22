@@ -10,17 +10,17 @@ permalink: /schools/
 
 <br/>
 
-### [Бесплатно] [YouTube] [Stepic] [Deep Learning School (МФТИ)](/schools/deep-learning-school/)
+### [[Бесплатно] [YouTube] [МФТИ] [Stepic] [Deep Learning School] [RUS] [2022]](/schools/deep-learning-school/)
 
-### [Бесплатно] [YouTube][лекторий фпми] [girafe-ai] Машинное обучение [RUS, 2022](/schools/fpmi/)
+### [[Бесплатно] [YouTube][МФТИ][Лекторий ФПМИ] [girafe-ai] Машинное обучение [RUS] [2022]](/schools/fpmi/)
 
-### [Бесплатно] [YouTube] [RS School] [Epam]] (/schools/rs-school/)
+### [[Бесплатно] [YouTube] [RS School] [Epam]](/schools/rs-school/)
 
-### [Stepic (Бесплатно)] (/schools/stepic/)
+### [[Бесплатно] [Stepic]](/schools/stepic/)
 
 ### [Mail.ru (Бесплатно)](/schools/mail/)
 
-### [Specialist] (/schools/specialist/)
+### [Specialist](/schools/specialist/)
 
 ### [Skillbox](/schools/skillbox/)
 
