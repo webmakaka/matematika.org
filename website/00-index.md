@@ -25,9 +25,11 @@ https://t.me/matematika_org/
 
 Запросы в чате на решение школьных / студенческих заданий не приветствуются.
 
+<br/>
+
 ### [[Бесплатно] [YouTube] [МФТИ] [Stepic] [Deep Learning School] [RUS] [2022]](/schools/deep-learning-school/)
 
-### [[Бесплатно] [YouTube][МФТИ][Лекторий ФПМИ] [girafe-ai] Машинное обучение [RUS] [2022]](/schools/fpmi/)
+### [[Бесплатно] [YouTube] [МФТИ][Лекторий ФПМИ] [girafe-ai] Машинное обучение [RUS] [2022]](/schools/fpmi/)
 
 <br/>
 
