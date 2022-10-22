@@ -35,13 +35,13 @@ https://t.me/matematika_org/
 
 <br/>
 
-<div align="center">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/2wR5HdAdDO8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+Попытка сделать конспект <a href="/schools/deep-learning-school/">здесь</a>. Добавление полезных замечаний и пропущенных важных вещей, приветствуется.
 
 <br/>
 
-Попытка сделать конспект <a href="/schools/deep-learning-school/">здесь</a>. Добавление полезных замечаний и пропущенных важных вещей, приветствуется.
+### [Бесплатно] [YouTube][лекторий фпми] [girafe-ai] Машинное обучение [RUS, 2022]
+
+[здесь](/schools/fpmi/)
 
 <br/>
 
@@ -176,55 +176,6 @@ https://www.youtube.com/watch?v=6JNwK6hEneg
 ### [Derek Banas] Python for Data Science [ENG, 2021]
 
 https://www.youtube.com/watch?v=LOQHYn7BLAg
-
-<br/>
-
-### [Лекторий ФПМИ] [Бесплатно] Машинное обучение [RUS, 2021]
-
-**Полные материалы курса:**  
-https://github.com/girafe-ai/ml-mipt
-
-<br/>
-
-Пока как-то запутанно. Разные каналы. Разное нумерование.
-
-<br/>
-
-**(1-й семестр)**
-
-**[girafe] Лекция 01: Введение, Naive Bayes, kNN | Осень 2021**  
-https://www.youtube.com/watch?v=74Kd-rNxSm0
-
-**Слайды и материалы занятия:**  
-https://github.com/girafe-ai/ml-mipt/tree/21f_basic/week0_01_org_knn_and_naive_bayes
-
-**[girafe] Лекция 02: Линейные модели, регуляризация | Осень 2021**  
-https://www.youtube.com/watch?v=S06bkX7okg0
-
-**Слайды и материалы занятия:**  
-https://github.com/girafe-ai/ml-mipt/tree/21f_basic/week0_02_linear_reg
-
-**[girafe] Семинар 01: Реализация Naive Bayes | Осень 2021**  
-https://www.youtube.com/watch?v=bzCwHkO-YEk
-
-**Лекция 2**  
-https://www.youtube.com/watch?v=rSGdSkd3veA
-
-**Лекция 3**:  
-https://www.youtube.com/watch?v=DkDEkHYcFzE
-
-<br/>
-
-**Advanced (2-й семестр)**
-
-Лекция 01: Введение в NLP, векторные представления слов, word2vec | Осень 2021  
-https://www.youtube.com/watch?v=-DR-047yTDw
-
-Лекция 02: CNN в работе с текстом, проблема затухающих градиентов | Осень 2021  
-https://www.youtube.com/watch?v=tPNeoMAxQ5A
-
-Лекция 03: Машинный перевод, механизм Attention | Осень 2021  
-https://www.youtube.com/watch?v=caVw1Nlas6U
 
 <br/>
 

@@ -17,7 +17,7 @@ https://stepik.org/course/124070/promo
 https://stepik.org/course/124069/promo
 
 **Презентация**  
-https://docs.google.com/presentation/d/1z_lO03WpvhJiIT8ARUIDog2YXqfxZdIWfM0ki2xAbIk/edit
+https://docs.google.com/presentation/d/1Lj_Mu-lOQXFtlSd06YZ4gw_L6_bPVSw7/edit
 
 <br/>
 

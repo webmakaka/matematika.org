@@ -10,6 +10,12 @@ permalink: /schools/deep-learning-school/
 
 <br/>
 
+<div align="center">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/2wR5HdAdDO8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+<br/>
+
 ### [Семестр 1](/schools/deep-learning-school/semestr1/)
 
 ### [Семестр 2](/schools/deep-learning-school/semestr2/)

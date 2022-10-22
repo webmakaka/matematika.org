@@ -10,9 +10,11 @@ permalink: /schools/
 
 <br/>
 
-### [Deep Learning School (МФТИ) (Бесплатно)](/schools/deep-learning-school/)
+### [Бесплатно] [YouTube] [Stepic] [Deep Learning School (МФТИ)](/schools/deep-learning-school/)
 
-### [RS School (Epam) (Бесплатно)] (/schools/rs-school/)
+### [Бесплатно] [YouTube][лекторий фпми] [girafe-ai] Машинное обучение [RUS, 2022](/schools/fpmi/)
+
+### [Бесплатно] [YouTube] [RS School] [Epam]] (/schools/rs-school/)
 
 ### [Stepic (Бесплатно)] (/schools/stepic/)
 
@@ -35,8 +37,6 @@ permalink: /schools/
 ### [GeekBrains](/schools/geekbrains/)
 
 ### [МИЭТ](/schools/miet/)
-
-### [МФТИ](/schools/mfti/)
 
 ### [Coursera](/schools/coursera/)
 
