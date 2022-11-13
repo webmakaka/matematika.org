@@ -3,7 +3,7 @@ layout: page
 title: Настройка neovim для работы с языком Rust
 description: Настройка neovim для работы с языком Rust
 keywords: rust, neovim
-permalink: /study/lang/rust/neovim/
+permalink: /dev/tools/rust/neovim/
 ---
 
 <br/>
@@ -12,7 +12,7 @@ permalink: /study/lang/rust/neovim/
 
 <br/>
 
-Neovim пока как из [здесь](//jsdev.org/env/ide/neovim/)
+Neovim пока как и [здесь](//jsdev.org/env/ide/neovim/)
 
 <br/>
 

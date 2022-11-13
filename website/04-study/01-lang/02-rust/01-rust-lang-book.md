@@ -84,7 +84,7 @@ $ ./main
 
 <br/>
 
-### [Настройка neovim для работы с языком Rust](/study/lang/rust/neovim/)
+### [Настройка neovim для работы с языком Rust](/dev/tools/rust/neovim/)
 
 <br/>
 

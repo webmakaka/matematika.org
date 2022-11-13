@@ -21,11 +21,7 @@ Codename:	focal
 
 <br/>
 
-<!--
-
-sudo apt install -y python3-venv
-
--->
+### virtualenv
 
 ```
 $ sudo apt update && sudo apt upgrade -y
@@ -62,6 +58,8 @@ $ ls -ls /usr/bin/python*
 
 ### Запуск jupyter notebook и стандартных библиотек
 
+<br/>
+
 ```python
 $ mkdir -p ~/projects/dev/ml
 $ cd ~/projects/dev/ml
@@ -70,7 +68,9 @@ $ export PROJECT_NAME=<MY_NEW_PROJECT_NAME>
 
 $ mkdir ${PROJECT_NAME} && cd ${PROJECT_NAME}
 
-$ virtualenv --system-site-packages -p python ${PROJECT_NAME}-env
+# $ virtualenv --system-site-packages -p python ${PROJECT_NAME}-env
+$ virtualenv --python="/usr/bin/python3.8" ${PROJECT_NAME}-env
+
 
 $ source ${PROJECT_NAME}-env/bin/activate
 ```
@@ -89,9 +89,15 @@ pip 22.0.3
 
 <br/>
 
-### Если нужна специфическая версия (Какая-то старая)
+### pyenv (Если нужна специфическая версия (Например, какая-то старая))
 
-Найду поэлегантней решение, обязательно напишу.
+```
+$ sudo apt-get install -y build-essential zlib1g-dev libffi-dev libssl-dev libbz2-dev libreadline-dev libsqlite3-dev liblzma-dev
+```
+
+<br/>
+
+Вариант 1.
 
 <br/>
 
@@ -100,24 +106,71 @@ pip 22.0.3
 <br/>
 
 ```
-$ sudo apt-get install build-essential zlib1g-dev libffi-dev libssl-dev libbz2-dev libreadline-dev libsqlite3-dev liblzma-dev
-
 $ brew install pyenv
-$ pyenv install --list
-$ pyenv install 3.6.9
+```
+
+<br/>
+
+Вариант 2.
+
+<br/>
+
+```
+$ curl https://pyenv.run | bash
+```
+
+```
+
+$ vi ~/.bashrc
+```
+
+```
+export PYENV_ROOT="$HOME/.pyenv"
+command -v pyenv >/dev/null || export PATH="$PYENV_ROOT/bin:$PATH"
+eval "$(pyenv init -)"
+```
+
+<br/>
+
+logout / login
+
+```
+// Нужно что-то сделать, чтобы автоматом
+$ source ~/.bashrc
 ```
 
 <br/>
 
 ```
-$ /home/marley/.pyenv/versions/3.6.9/bin/python --version
-Python 3.6.9
+$ pyenv install --list | grep python
+
+$ export PYTHON_VERSION=3.6.2
+
+$ pyenv install ${PYTHON_VERSION}
 ```
 
 <br/>
 
 ```
-$ virtualenv --system-site-packages --python=/home/marley/.pyenv/versions/3.6.9/bin/python ${PROJECT_NAME}-env --no-pip
+$ ~/.pyenv/versions/${PYTHON_VERSION}/bin/python --version
+Python 3.6.2
+```
+
+<br/>
+
+<!-- // $ virtualenv --system-site-packages --python=/home/marley/.pyenv/versions/3.6.9/bin/python ${PROJECT_NAME}-env --no-pip
+
+$ virtualenv --system-site-packages --python=/root/.pyenv/versions/3.8.15/bin/python ${PROJECT_NAME}-env --no-pip -->
+
+```
+
+$ export PROJECT_NAME=<MY_NEW_PROJECT_NAME>
+
+
+$ pyenv virtualenv ${PYTHON_VERSION} ${PROJECT_NAME}-env
+
+
+$ cd ~/.pyenv/versions/${PYTHON_VERSION}/envs/
 
 $ source ${PROJECT_NAME}-env/bin/activate
 ```
@@ -126,12 +179,11 @@ $ source ${PROJECT_NAME}-env/bin/activate
 
 ```
 $ python --version
-Python 3.6.9
+Python 3.6.2
+
+$ pip --version
+pip 9.0.1
 ```
-
-<br/>
-
-Как-то хреново pip работал.
 
 <br/>
 
@@ -156,8 +208,6 @@ $ jupyter notebook --ip 0.0.0.0 --port 8888
 ```
 
 <br/>
-
-
 
 <br/>
 

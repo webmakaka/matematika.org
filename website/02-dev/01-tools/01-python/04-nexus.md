@@ -210,7 +210,6 @@ $ twine upload --repository nexus ./Flask-2.1.1-py3-none-any.whl
 // UPLOAD multiple
 $ twine upload --repository nexus dist/* --skip-existing --verbose
 
-
 // Или еше вариант
 // OK!
 $ python -m twine upload --repository nexus dist/* --skip-existing --verbose
