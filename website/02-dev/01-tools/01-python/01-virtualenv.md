@@ -92,7 +92,7 @@ pip 22.0.3
 ### pyenv (Если нужна специфическая версия (Например, какая-то старая))
 
 ```
-$ sudo apt-get install -y build-essential zlib1g-dev libffi-dev libssl-dev libbz2-dev libreadline-dev libsqlite3-dev liblzma-dev
+$ sudo apt install -y build-essential zlib1g-dev libffi-dev libssl-dev libbz2-dev libreadline-dev libsqlite3-dev liblzma-dev
 ```
 
 <br/>
@@ -119,9 +119,34 @@ $ brew install pyenv
 $ curl https://pyenv.run | bash
 ```
 
+<br/>
+
+```
+WARNING: seems you still have not added 'pyenv' to the load path.
+
+# Load pyenv automatically by appending
+# the following to
+~/.bash_profile if it exists, otherwise ~/.profile (for login shells)
+and ~/.bashrc (for interactive shells) :
+
+export PYENV_ROOT="$HOME/.pyenv"
+command -v pyenv >/dev/null || export PATH="$PYENV_ROOT/bin:$PATH"
+eval "$(pyenv init -)"
+
+# Restart your shell for the changes to take effect.
+
+# Load pyenv-virtualenv automatically by adding
+# the following to ~/.bashrc:
+
+eval "$(pyenv virtualenv-init -)"
+
 ```
 
-$ vi ~/.bashrc
+<br/>
+
+```
+
+$ vi ~/.bash_profile
 ```
 
 ```
@@ -134,9 +159,17 @@ eval "$(pyenv init -)"
 
 logout / login
 
+<br/>
+
 ```
-// Нужно что-то сделать, чтобы автоматом
-$ source ~/.bashrc
+$ echo ${PYENV_ROOT}
+```
+
+<br/>
+
+```
+// если нет
+$ source ~/.bash_profile
 ```
 
 <br/>
@@ -144,7 +177,7 @@ $ source ~/.bashrc
 ```
 $ pyenv install --list | grep python
 
-$ export PYTHON_VERSION=3.6.2
+$ export PYTHON_VERSION=3.8.12
 
 $ pyenv install ${PYTHON_VERSION}
 ```
@@ -169,10 +202,7 @@ $ export PROJECT_NAME=<MY_NEW_PROJECT_NAME>
 
 $ pyenv virtualenv ${PYTHON_VERSION} ${PROJECT_NAME}-env
 
-
-$ cd ~/.pyenv/versions/${PYTHON_VERSION}/envs/
-
-$ source ${PROJECT_NAME}-env/bin/activate
+$ source ${PYENV_ROOT}/versions/${PROJECT_NAME}-env/bin/activate
 ```
 
 <br/>
