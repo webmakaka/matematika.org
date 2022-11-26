@@ -25,39 +25,7 @@ https://www.youtube.com/watch?v=OX9HJsJUDxA&list=PLai5B987bZ9CoVR-QEIN9foz4QCJ0H
 
 <br/>
 
-```
-// Инсталляция в linux
-$ cd ~/tmp/
-$ curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
-
-$ source $HOME/.cargo/env
-
-$ rustup update
-
-$ rustc --version
-$ cargo --version
-```
-
-<br/>
-
-```
-$ rustup show
-Default host: x86_64-unknown-linux-gnu
-rustup home:  /home/marley/.rustup
-
-stable-x86_64-unknown-linux-gnu (default)
-rustc 1.60.0 (7737e0b5c 2022-04-04)
-```
-
-<br/>
-
-```
-// Использовать стабильную версию rust
-$ rustup override set stable
-
-// Использовать последнюю версию rust
-$ rustup override set nightly
-```
+### [Инсталляция в linux](/dev/tools/rust/env/)
 
 <br/>
 
@@ -311,39 +279,3 @@ fn main() {
 
 fn route(ip_kind: IpAddrKind) {}
 ```
-
-<br/>
-
-### 07 - Rust's Module System Explained!
-
-<!-- ```
-$ cargo new my-project
-$ cargo new --lib restaurant
-```
-
-```
-$ cargo new --lib restaurant
-$ cd my-project/
-```
-
-<br/>
-
-```
-$ vi ./src/lib.rs
-``` -->
-
-<br/>
-
-### 08 - Common Collections in Rust
-
-<br/>
-
-### 09 - Error Handling in Rust
-
-<br/>
-
-### 10 - Generic Types in Rust
-
-<br/>
-
-### 11 - Traits in Rust
