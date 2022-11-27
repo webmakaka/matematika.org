@@ -14,23 +14,6 @@ permalink: /dev/tools/rust/neovim/
 
 Neovim пока как и [здесь](//jsdev.org/env/ide/neovim/)
 
-<br/>
-
-**rust-analyzer**
-https://github.com/rust-analyzer/rust-analyzer
-
-<br/>
-
-```
-$ cd ~/apps/
-$ git clone https://github.com/rust-analyzer/rust-analyzer
-$ cd rust-analyzer/
-
-$ rustup update
-$ cargo xtask install --server
-$ rust-analyzer --version
-```
-
 <!-- <br/>
 
 ```

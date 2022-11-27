@@ -100,3 +100,20 @@ $ cargo install cargo-tarpaulin
 // Security Vulnerabilities
 $ cargo install cargo-audit
 ```
+
+<br/>
+
+**rust-analyzer**
+https://github.com/rust-analyzer/rust-analyzer
+
+<br/>
+
+```
+$ cd ~/apps/
+$ git clone https://github.com/rust-analyzer/rust-analyzer
+$ cd rust-analyzer/
+
+$ rustup update
+$ cargo xtask install --server
+$ rust-analyzer --version
+```
