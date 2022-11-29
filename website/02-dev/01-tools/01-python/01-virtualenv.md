@@ -91,11 +91,21 @@ pip 22.0.3
 
 ### pyenv (Если нужна специфическая версия (Например, какая-то старая))
 
+<br/>
+
 ```
-$ sudo apt install -y build-essential zlib1g-dev libffi-dev libssl-dev libbz2-dev libreadline-dev libsqlite3-dev liblzma-dev
+// На астра линукс требовались
+# apt-get install patch make gcc zlib-devel libssl-devel
 ```
 
 <br/>
+
+```
+// На ubuntu
+$ sudo apt install -y build-essential zlib1g-dev libffi-dev libssl-dev libbz2-dev libreadline-dev libsqlite3-dev liblzma-dev
+```
+
+<!-- <br/>
 
 Вариант 1.
 
@@ -107,11 +117,7 @@ $ sudo apt install -y build-essential zlib1g-dev libffi-dev libssl-dev libbz2-de
 
 ```
 $ brew install pyenv
-```
-
-<br/>
-
-Вариант 2.
+``` -->
 
 <br/>
 
@@ -186,7 +192,7 @@ $ pyenv install ${PYTHON_VERSION}
 
 ```
 $ ~/.pyenv/versions/${PYTHON_VERSION}/bin/python --version
-Python 3.6.2
+Python 3.8.12
 ```
 
 <br/>

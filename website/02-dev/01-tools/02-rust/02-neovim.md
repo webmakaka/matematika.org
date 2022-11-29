@@ -14,6 +14,14 @@ permalink: /dev/tools/rust/neovim/
 
 Neovim пока как и [здесь](//jsdev.org/env/ide/neovim/)
 
+<br/>
+
+```
+$ cargo new rusttests
+$ cd rusttests
+$ vi ./
+```
+
 <!-- <br/>
 
 ```
@@ -37,17 +45,3 @@ https://rust-analyzer.github.io/manual.html#vimneovim
 $ rustup component add rustfmt
 $ cargo fmt
 ```
-
-<br/>
-
-### Может что полезное есть. Недоразобрался
-
-**БОЖЕСТВЕННЫЙ nvim как IDE для Python, Rust и всех-всех-всех — встречаем LSP!**  
-https://www.youtube.com/watch?v=PA7zZNJXJEk
-
-<br/>
-
-**Vim Rust Setup**
-https://www.youtube.com/watch?v=evNNcc4E2DQ
-
-https://www.youtube.com/watch?v=LfJZboTeDt0
