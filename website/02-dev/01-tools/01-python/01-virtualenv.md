@@ -82,6 +82,8 @@ $ python --version
 Python 3.8.10
 
 $ pip install --upgrade pip
+$ pip install setuptools --upgrade
+
 
 $ pip --version
 pip 22.0.3
