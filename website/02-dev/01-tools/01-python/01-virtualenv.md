@@ -101,7 +101,12 @@ pip 22.0.3
 
 
 // WARNINGS при отсутствии
-# bzip2-devel ncurses-devel readline-devel liblzma-devel libsqlite3-devel
+# apt-get install -y bzip2-devel ncurses-devel readline-devel liblzma-devel libsqlite3-devel
+
+
+// Ошибка без этого паета
+// ModuleNotFoundError: No module named '_ctypes'
+ # apt-get install -y libffi-devel
 ```
 
 <br/>
