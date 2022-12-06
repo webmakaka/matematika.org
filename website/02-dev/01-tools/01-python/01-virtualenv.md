@@ -98,6 +98,10 @@ pip 22.0.3
 ```
 // На астра линукс требовались
 # apt-get install patch make gcc zlib-devel libssl-devel
+
+
+// WARNINGS при отсутствии
+# bzip2-devel ncurses-devel readline-devel liblzma-devel libsqlite3-devel
 ```
 
 <br/>
