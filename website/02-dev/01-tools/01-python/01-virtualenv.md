@@ -137,15 +137,6 @@ $ export PYTHON_VERSION=3.8.12
 $ pyenv install ${PYTHON_VERSION}
 ```
 
-<br/>
-
-```
-$ pip install --upgrade pip
-$ pip install setuptools --upgrade
-
-// Посмотреть список установленных пакетов
-// $ pip list -v
-```
 
 <br/>
 
@@ -162,6 +153,16 @@ $ export PROJECT_NAME=<MY_NEW_PROJECT_NAME>
 $ pyenv virtualenv ${PYTHON_VERSION} ${PROJECT_NAME}-env
 
 $ source ${PYENV_ROOT}/versions/${PROJECT_NAME}-env/bin/activate
+```
+
+<br/>
+
+```
+$ pip install --upgrade pip
+$ pip install setuptools --upgrade
+
+// Посмотреть список установленных пакетов
+// $ pip list -v
 ```
 
 <br/>
