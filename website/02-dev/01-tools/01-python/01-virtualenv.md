@@ -36,7 +36,7 @@ $ sudo apt install python-is-python3
 
 ```
 // На astra linux требовались
-# apt-get install patch make gcc zlib-devel libssl-devel
+# apt-get install -y patch make gcc zlib-devel libssl-devel
 
 
 // WARNINGS при отсутствии

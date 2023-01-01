@@ -27,6 +27,26 @@ https://t.me/matematika_org/
 
 <br/>
 
+### MLFlow
+
+**[YouTube] Experiment Tracking Using MLflow in Machine Learning | Model Versioning & Model Registry | Part 1 [Indian ENG, 2022]**
+
+https://www.youtube.com/watch?v=r0do1KVEGqM
+
+https://github.com/TripathiAshutosh/mlflow
+
+<br/>
+
+### Feature Store. Feast
+
+**[YouTube] What is Feature Store in machine learning? | Feast Live Demo [Indian ENG, 2022]**
+
+https://www.youtube.com/watch?v=iZ8R_EUf_pM
+
+https://github.com/TripathiAshutosh/feast/tree/main/Feast%20Live%20Demo
+
+<br/>
+
 ### [[Бесплатно] [YouTube] [МФТИ] [Stepic] [Deep Learning School] [RUS] [2022]](/schools/deep-learning-school/)
 
 ### [[Бесплатно] [YouTube] [МФТИ][Лекторий ФПМИ] [girafe-ai] Машинное обучение [RUS] [2022]](/schools/fpmi/)
