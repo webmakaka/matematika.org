@@ -29,11 +29,15 @@ https://t.me/matematika_org/
 
 ### MLFlow
 
-**[YouTube] Experiment Tracking Using MLflow in Machine Learning | Model Versioning & Model Registry | Part 1 [Indian ENG, 2022]**
+**[YouTube] Experiment Tracking Using MLflow in Machine Learning | Model Versioning & Model Registry [Indian ENG, 2022]**
 
-https://www.youtube.com/watch?v=r0do1KVEGqM
+- [part1](https://www.youtube.com/watch?v=r0do1KVEGqM)
+- [part2](https://www.youtube.com/watch?v=1EYVQGdXVOo)
+- [part3](https://www.youtube.com/watch?v=8laO3snNDpQ)
 
-https://github.com/TripathiAshutosh/mlflow
+<br/>
+
+[github](https://github.com/TripathiAshutosh/mlflow)
 
 <br/>
 
@@ -41,9 +45,11 @@ https://github.com/TripathiAshutosh/mlflow
 
 **[YouTube] What is Feature Store in machine learning? | Feast Live Demo [Indian ENG, 2022]**
 
-https://www.youtube.com/watch?v=iZ8R_EUf_pM
+- [link](https://www.youtube.com/watch?v=iZ8R_EUf_pM)
 
-https://github.com/TripathiAshutosh/feast/tree/main/Feast%20Live%20Demo
+<br/>
+
+[github](https://github.com/TripathiAshutosh/feast/)
 
 <br/>
 
