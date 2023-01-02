@@ -77,8 +77,6 @@ https://www.youtube.com/watch?v=J6iHTHHS7as
 **Лекция. Понятие производной**  
 https://www.youtube.com/watch?v=9zKXtRMunTA
 
-[Ссылка на ноутбук](https://drive.google.com/drive/folders/15eJ-IDsoXqZv3cgd8E2Dyz4Z1xt7INBP)
-
 **Лекция. Вычисление производной. Градиент**  
 https://www.youtube.com/watch?v=XwVd2Xi5GjQ
 

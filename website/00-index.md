@@ -35,8 +35,6 @@ https://t.me/matematika_org/
 - [part2](https://www.youtube.com/watch?v=1EYVQGdXVOo)
 - [part3](https://www.youtube.com/watch?v=8laO3snNDpQ)
 
-<br/>
-
 [github](https://github.com/TripathiAshutosh/mlflow)
 
 <br/>
@@ -46,8 +44,6 @@ https://t.me/matematika_org/
 **[YouTube] What is Feature Store in machine learning? Feast Live Demo [Indian ENG, 2022]**
 
 - [link](https://www.youtube.com/watch?v=iZ8R_EUf_pM)
-
-<br/>
 
 [github](https://github.com/TripathiAshutosh/feast/)
 
