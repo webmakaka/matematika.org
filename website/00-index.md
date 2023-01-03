@@ -25,6 +25,15 @@ https://t.me/matematika_org/
 
 Запросы в чате на решение школьных / студенческих заданий не приветствуются.
 
+
+<br/>
+
+### Куча материалов по математике 
+
+https://teach-in.ru/course?category=math
+
+
+
 <br/>
 
 ### MLFlow
