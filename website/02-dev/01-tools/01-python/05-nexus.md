@@ -235,3 +235,40 @@ $ pip install example-package --index-url http://192.168.1.9:8081/repository/pyp
 ### Packaging Python Projects
 
 https://packaging.python.org/en/latest/tutorials/packaging-projects/
+
+<br/>
+
+### Проверка лицензий
+
+https://pypi.org/project/pip-licenses/
+
+<br/>
+
+```
+$ cd ~/tmp/
+$ git clone https://github.com/raimon49/pip-licenses.git
+$ cd pip-licenses/
+```
+
+```
+$ vi Dockerfile
+```
+
+```
+FROM python:3.8.12-slim-bullseye
+```
+
+```
+$ vi docker/requirements.txt
+```
+
+```
+mlflow==1.22.*
+psycopg2-binary==2.8.*
+protobuf==3.20.*
+```
+
+```
+$ docker build . -t myapp-licenses
+$ docker run --rm myapp-licenses --order=license --format=markdown
+```

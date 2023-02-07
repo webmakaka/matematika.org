@@ -25,14 +25,11 @@ https://t.me/matematika_org/
 
 Запросы в чате на решение школьных / студенческих заданий не приветствуются.
 
-
 <br/>
 
-### Куча материалов по математике 
+### Куча материалов по математике
 
 https://teach-in.ru/course?category=math
-
-
 
 <br/>
 
@@ -43,6 +40,7 @@ https://teach-in.ru/course?category=math
 - [part1](https://www.youtube.com/watch?v=r0do1KVEGqM)
 - [part2](https://www.youtube.com/watch?v=1EYVQGdXVOo)
 - [part3](https://www.youtube.com/watch?v=8laO3snNDpQ)
+- [part4](https://www.youtube.com/watch?v=XZSiHpOoOR0)
 
 [github](https://github.com/TripathiAshutosh/mlflow)
 

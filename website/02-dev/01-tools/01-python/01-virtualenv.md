@@ -10,6 +10,11 @@ permalink: /dev/tools/python/virtualenv/
 
 <br/>
 
+Делаю:  
+27.01.2023
+
+<br/>
+
 ```
 $ lsb_release -a
 No LSB modules are available.
@@ -137,7 +142,6 @@ $ export PYTHON_VERSION=3.8.12
 $ pyenv install ${PYTHON_VERSION}
 ```
 
-
 <br/>
 
 ```
@@ -158,7 +162,7 @@ $ source ${PYENV_ROOT}/versions/${PROJECT_NAME}-env/bin/activate
 <br/>
 
 ```
-$ pip install --upgrade pip
+$ pip install pip --upgrade
 $ pip install setuptools --upgrade
 
 // Посмотреть список установленных пакетов
