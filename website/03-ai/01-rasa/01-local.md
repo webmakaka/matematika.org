@@ -39,7 +39,7 @@ Rasa Version      :         3.0.9
 <br/>
 
 ```
-$ git clone https://github.com/webmak1/Rasa-3.0-rock-paper-scissors-chatbot
+$ git clone https://github.com/wildmakaka/Rasa-3.0-rock-paper-scissors-chatbot
 ```
 
 <br/>
