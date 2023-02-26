@@ -27,6 +27,10 @@ https://t.me/matematika_org/
 
 <br/>
 
+### [[Бесплатно] [YouTube] [МФТИ] [Stepic] [Deep Learning School] [RUS] [март 2023]](/schools/deep-learning-school/)
+
+<br/>
+
 ### Куча материалов по математике
 
 https://teach-in.ru/course?category=math
@@ -55,8 +59,6 @@ https://teach-in.ru/course?category=math
 [github](https://github.com/TripathiAshutosh/feast/)
 
 <br/>
-
-### [[Бесплатно] [YouTube] [МФТИ] [Stepic] [Deep Learning School] [RUS] [2022]](/schools/deep-learning-school/)
 
 ### [[Бесплатно] [YouTube] [МФТИ][Лекторий ФПМИ] [girafe-ai] Машинное обучение [RUS] [2022]](/schools/fpmi/)
 
