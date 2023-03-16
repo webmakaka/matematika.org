@@ -3,7 +3,7 @@ layout: page
 title: Инсталляция rust в linux
 description: Инсталляция rust в linux
 keywords: программирование, языки, rust, Инсталляция rust в linux
-permalink: /dev/tools/rust/env/
+permalink: /dev/tools/rust/setup/
 ---
 
 <br/>
@@ -25,10 +25,13 @@ $ rustup update
 
 ```
 $ rustc --version
-rustc 1.65.0 (897e37553 2022-11-02)
+rustc 1.68.0 (2c8cc3432 2023-03-06)
 
 $ cargo --version
-cargo 1.65.0 (4bc8f24d3 2022-10-20)
+cargo 1.68.0 (115f34552 2023-02-26)
+
+$ rustup --version
+rustup 1.25.2 (17db695f1 2023-02-01)
 ```
 
 <br/>
@@ -39,7 +42,7 @@ Default host: x86_64-unknown-linux-gnu
 rustup home:  /home/marley/.rustup
 
 stable-x86_64-unknown-linux-gnu (default)
-rustc 1.65.0 (897e37553 2022-11-02)
+rustc 1.68.0 (2c8cc3432 2023-03-06)
 ```
 
 <br/>
@@ -62,7 +65,6 @@ $ rustup override set stable
 $ sudo apt-get install -y lld clan libssl-dev
 ```
 
-
 <br/>
 
 ```
@@ -78,6 +80,13 @@ $ vi ~/.cargo/config.toml
 [target.x86_64-unknown-linux-gnu]
 rustflags = ["-C", "linker=clang", "-C", "link-arg=-fuse-ld=lld"]
 ```
+
+<br/>
+
+### VSCode extensions
+
+- Rust
+- Even Better toml
 
 <br/>
 

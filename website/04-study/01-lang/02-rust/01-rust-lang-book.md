@@ -25,7 +25,7 @@ https://www.youtube.com/watch?v=OX9HJsJUDxA&list=PLai5B987bZ9CoVR-QEIN9foz4QCJ0H
 
 <br/>
 
-### [Инсталляция в linux](/dev/tools/rust/env/)
+### [Инсталляция в linux](/dev/tools/rust/setup/)
 
 <br/>
 
@@ -63,6 +63,7 @@ $ cargo new hello_cargo
 $ cd hello_cargo/
 $ cargo build
 $ cargo run
+$ cargo run -q
 ```
 
 <br/>
@@ -142,7 +143,7 @@ fn main() {
 ```
 $ cargo fmt
 $ cargo build
-$ cargo run
+$ cargo run -q
 ```
 
 <br/>
