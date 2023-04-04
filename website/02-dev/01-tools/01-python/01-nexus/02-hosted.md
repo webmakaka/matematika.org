@@ -105,7 +105,6 @@ $ twine upload --repository nexus dist/* --skip-existing --verbose
 // Или еше вариант
 // OK!
 $ python -m twine upload --repository nexus dist/* --skip-existing --verbose
-
 ```
 
 <br/>

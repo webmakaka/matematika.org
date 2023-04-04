@@ -27,6 +27,20 @@ https://t.me/matematika_org/
 
 <br/>
 
+### [YouTube, Simplilearn] Big Data and Hadoop Full Course 2023 | Learn Big Data and Hadoop in 12 hours [ENG, 2023]
+
+https://www.youtube.com/watch?v=BKlvhBCoBp4
+
+<br/>
+
+### Twitter опубликовал исходный код ленты рекомендаций «Для вас»
+
+Twitter опубликовал на GitHub несколько частей исходного кода <a ref="https://github.com/twitter/the-algorithm/">(основной репозиторий</a>, <a ref="https://github.com/twitter/the-algorithm-ml">репозиторий ml</a>), в том числе содержащих информацию об алгоритме рекомендаций, который управляет формированием ленты «Для вас».
+
+Команда сервиса также поделилась дополнительной информацией о своем рекомендательном алгоритме в <a ref="https://blog.twitter.com/engineering/en_us/topics/open-source/2023/twitter-recommendation-algorithm">блоге для разработчиков</a>. Там указывается, что текущий релиз не включает в себя код, который управляет рекламными рекомендациями.
+
+<br/>
+
 ### [[Бесплатно] [YouTube] [МФТИ] [Stepic] [Deep Learning School] [RUS] [март 2023]](/schools/deep-learning-school/)
 
 <br/>
@@ -232,7 +246,7 @@ https://github.com/PeterZhizhin/moscow_deg_decode_votes
 
 <br/>
 
-### https://dvc.org/
+### dvc.org
 
 Open-source Version Control System for Machine Learning Projects
 
@@ -242,7 +256,7 @@ https://www.youtube.com/watch?v=kLKBcPonMYw
 
 <br/>
 
-### https://mlflow.org/
+### mlflow
 
 Open-source проект. Нужно разобраться.
 
