@@ -74,6 +74,7 @@ $ vi ~/.cargo/config.toml
 <br/>
 
 ```
+// Походу лишнее, ломающее все нафиг
 # On Linux:
 # - Ubuntu, `sudo apt-get install -y lld clang`
 # - Arch, `sudo pacman -S lld clang`
@@ -105,7 +106,7 @@ $ rustup component add rustfmt
 <br/>
 
 ```
-// monitors your source code to trigger commands every time a file changes
+// Monitors your source code to trigger commands every time a file changes
 $ cargo install cargo-watch
 
 // Code Coverage
