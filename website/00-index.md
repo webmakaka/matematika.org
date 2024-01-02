@@ -27,14 +27,14 @@ https://t.me/matematika_org/
 
 <br/>
 
-### [YouTube] PyTorch [ENG, 2023]
+### [YouTube] PyTorch [ENG, 2022]
 
-Надо определиться с тем, что лучше, что интереснее и полезнее. М.б. есть и получше что-то.
+Надо определиться с тем, что лучше, что интереснее и полезнее. М.б. есть и получше что-то. Вроде один автор. 
 
 PyTorch for Deep Learning & Machine Learning  
 https://www.youtube.com/watch?v=V_xro1bcAuA
 
-Learn PyTorch for deep learning in a day. Literally  
+Learn PyTorch for deep learning in a day
 https://www.youtube.com/watch?v=Z_ikDlimN6A&t=83441s
 
 
