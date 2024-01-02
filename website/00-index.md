@@ -27,6 +27,19 @@ https://t.me/matematika_org/
 
 <br/>
 
+### [YouTube] PyTorch [ENG, 2023]
+
+Надо определиться с тем, что лучше, что интереснее и полезнее. М.б. есть и получше что-то.
+
+PyTorch for Deep Learning & Machine Learning  
+https://www.youtube.com/watch?v=V_xro1bcAuA
+
+Learn PyTorch for deep learning in a day. Literally  
+https://www.youtube.com/watch?v=Z_ikDlimN6A&t=83441s
+
+
+<br/>
+
 ### [YouTube, Simplilearn] Big Data and Hadoop Full Course 2023 | Learn Big Data and Hadoop in 12 hours [ENG, 2023]
 
 https://www.youtube.com/watch?v=BKlvhBCoBp4
