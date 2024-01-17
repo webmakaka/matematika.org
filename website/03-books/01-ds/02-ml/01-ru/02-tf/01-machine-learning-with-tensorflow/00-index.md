@@ -4,7 +4,7 @@ title: Шакла Нишант - Машинное обучение и TensorFlow
 permalink: /books/ds/ml/ru/tf/machine-learning-with-tensorflow/
 ---
 
-# Шакла Нишант - Машинное обучение и TensorFlow (Библиотека программиста) - 2019
+# [Шакла Нишант] Машинное обучение и TensorFlow (Библиотека программиста) [RUS, 2019]
 
 <br/>
 
@@ -23,7 +23,6 @@ https://github.com/BinRoot/TensorFlow-Book
 В новом окне jupyter выполнить
 
     !git clone https://github.com/BinRoot/TensorFlow-Book
-
 -->
 
 <br/>

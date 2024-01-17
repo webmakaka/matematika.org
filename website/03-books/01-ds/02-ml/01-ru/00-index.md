@@ -8,14 +8,9 @@ permalink: /books/ds/ml/ru/
 
 # Книги по машинному обучению на русском языке
 
-    - Почему книги по программированию на русском?
-    - Да тут и на русском не разобрать!
-
 <br/>
 
-## Scikit-learn
-
-### [[Орельен Жерон] Прикладное машинное обучение с помощью Scikit-Learn и TensorFlow [RUS, 2018]](/books/ds/ml/ru/hands-on-machine-learning-with-scikit-learn-and-tensorflow/)
+### [[Орельен Жерон] Прикладное машинное обучение с помощью Scikit-Learn, Keras и TensorFlow 2-e издание [RUS, 2020]](/books/ds/ml/ru/hands-on-machine-learning-with-scikit-learn-and-tensorflow/)
 
 <br/>
 
@@ -29,4 +24,4 @@ permalink: /books/ds/ml/ru/
 
 ## TensorFlow
 
-### [[Шакла Нишант] - Машинное обучение и TensorFlow (Библиотека программиста) - 2019](/books/ds/ml/ru/tf/machine-learning-with-tensorflow/)
+### [[Шакла Нишант] Машинное обучение и TensorFlow (Библиотека программиста) [RUS, 2019]](/books/ds/ml/ru/tf/machine-learning-with-tensorflow/)
