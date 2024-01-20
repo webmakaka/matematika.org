@@ -14,7 +14,7 @@ https://www.youtube.com/watch?v=PfYBXidENlg
 
 <br/>
 
-[Поднимаю виртуальное окружение](/dev/tools/python/virtualenv/)
+[Поднимаю виртуальное окружение](/dev//aiops.ru/tools/python/virtualenv/ubuntu/)
 
 <br/>
 

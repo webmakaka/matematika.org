@@ -20,7 +20,9 @@ http://go.dialektika.com/mlearning
 
 <br/>
 
-Самыми распространенными задача­ми обучения с учителем являются:
+**Самыми распространенными задача­ми обучения с учителем являются:**
+
+<br/>
 
 - регрессия (прогнозирование значений)
 - классификация (прогнозирование классов).
@@ -34,9 +36,9 @@ http://go.dialektika.com/mlearning
 - k ближайших соседей (k-Nearest Neighbors)
 - линейная регрессия (Linear Regression)
 - логистическая регрессия (Logistic Regression)
-- метод опорных векторов (Support Vector Machine - SVM)
+- метод опорных векторов (Support Vector Machine, SVM)
 - деревья принятия решений (Decision Tree) и случайные леса (Random Forest)
-- нейронные сети (neural network)
+- нейронные сети (Neural Network)
 
 <br/>
 
@@ -55,10 +57,10 @@ http://go.dialektika.com/mlearning
 
 • Визуализация и понижение размерности:
 
-- анализ главных компонентов (Principal Component Analysis - РСА)
+- анализ главных компонентов (Principal Component Analysis, РСА)
 - ядерный анализ главных компонентов (Kernel РСА)
-- локальное линейное вложение (Locally-Linear Embedding - LLE)
-- стохастическое вложение соседей с t-распределением (t-distributed Stochastic Neighbor Embedding - t-SNE)
+- локальное линейное вложение (Locally-Linear Embedding, LLE)
+- стохастическое вложение соседей с t-распределением (t-distributed Stochastic Neighbor Embedding, t-SNE)
 
 • Обучение ассоциативным правилам (association rule learning):
 
@@ -88,7 +90,12 @@ Notebook'и можно запускать локально или в colab.
 
 **В ubuntu:**
 
-Подготовил окружение как <a href="/dev/tools/python/virtualenv/">здесь</a>
+```
+// Устанавливаю следующую версию
+$ export PYTHON_VERSION=3.8.12
+```
+
+По доке как <a href="//aiops.ru/tools/python/virtualenv/ubuntu/">здесь</a>
 
 <br/>
 
