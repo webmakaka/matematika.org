@@ -95,7 +95,7 @@ Notebook'и можно запускать локально или в colab.
 $ export PYTHON_VERSION=3.8.12
 ```
 
-По доке как <a href="//aiops.ru/tools/python/virtualenv/ubuntu/">здесь</a>
+По доке как <a href="https://docs.aiops.ru/tools/python/virtualenv/ubuntu/">здесь</a>
 
 <br/>
 
