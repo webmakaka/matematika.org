@@ -76,9 +76,9 @@ https://t.me/matematika_org/3486
 
 Проект от Mail.ru в области Data Science и Big Data для специалистов с опытом работы в IT.
 
-Поготовили список <a href="//matematika.org/files/made/2020_MADE_Syllabus.pdf">материалов</a> для изучения, который может быть поелезен в том числе и посетителям данного сайта.
+Поготовили список <a href="https://matematika.org/files/made/2020_MADE_Syllabus.pdf">материалов</a> для изучения, который может быть поелезен в том числе и посетителям данного сайта.
 
-Мое уважение всем тем, кто может решить <a href="//matematika.org/files/made/2020_MADE_demo_Math.pdf">вариант</a> вступительного экзамена.
+Мое уважение всем тем, кто может решить <a href="https://matematika.org/files/made/2020_MADE_demo_Math.pdf">вариант</a> вступительного экзамена.
 
 <br/>
 

@@ -25,7 +25,7 @@ https://www.youtube.com/watch?v=OX9HJsJUDxA&list=PLai5B987bZ9CoVR-QEIN9foz4QCJ0H
 
 <br/>
 
-### [Инсталляция в linux](//gitops.ru/dev/rust/setup/)
+### [Инсталляция в linux](https://gitops.ru/dev/rust/setup/)
 
 <br/>
 

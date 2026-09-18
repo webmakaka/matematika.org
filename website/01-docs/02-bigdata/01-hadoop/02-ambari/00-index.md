@@ -12,4 +12,4 @@ permalink: /ds/bigdata/hadoop/ambari/
 
 ### [Виртуальная машина с дистрибутивами по направлению BigData от компании HortonWorks](/ds/bigdata/hadoop/ambari/hortonworks/)
 
-### [Самостоятельная подготовка кластера с помощью Ambari](//javadev.org/bigdata/hadoop/setup/ambari/)
+### [Самостоятельная подготовка кластера с помощью Ambari](https://javadev.org/bigdata/hadoop/setup/ambari/)

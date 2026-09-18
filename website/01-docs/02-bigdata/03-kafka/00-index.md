@@ -22,9 +22,9 @@ Apache Kafka использует ZooKeeper для хранения метада
 
 <br/>
 
-### [Запуск kafka в docker контейнере](//javadev.org/messaging/kafka/docker/)
+### [Запуск kafka в docker контейнере](https://javadev.org/messaging/kafka/docker/)
 
-### [Инсталляция kafka в ubuntu с использованием vagrant и ansible](//javadev.org/messaging/kafka/setup/linux/)
+### [Инсталляция kafka в ubuntu с использованием vagrant и ansible](https://javadev.org/messaging/kafka/setup/linux/)
 
 ### [Скрипты развертывания kafka с помощью ansible](https://github.com/matematika-org/kafka_ansible)
 

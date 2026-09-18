@@ -12,9 +12,9 @@ permalink: /ai/nlp/nlu/rasa/kubernetes/
 
 **Подготовка:**
 
-[Инсталляция и подготовка minikube для работы в ubuntu 20.04](//gitops.ru/containers/k8s/setup/minikube/)
+[Инсталляция и подготовка minikube для работы в ubuntu 20.04](https://gitops.ru/containers/k8s/setup/minikube/)
 
-[Инсталляция kubectl в ubuntu 20.04](//gitops.ru/containers/k8s/setup/tools/kubectl/)
+[Инсталляция kubectl в ubuntu 20.04](https://gitops.ru/containers/k8s/setup/tools/kubectl/)
 
 <br/>
 
