@@ -47,7 +47,7 @@ FROM deeppavlov/base-gpu OK!
 
 ### Пробуем
 
-[Установка виртуального окружения](https://aiops.ru/tools/python/virtualenv/ubuntu/)
+[Установка виртуального окружения](https://dics,aiops.ru/tools/python/virtualenv/ubuntu/)
 
 <br/>
 
